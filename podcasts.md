@@ -11,8 +11,14 @@ Podcasts are a great way of accessing various topics. Many universities and othe
 ## Birbeck, University of London Podcasts
 Subjecs on population, environment, gender and more. [Listen here.](http://www.bbk.ac.uk/bisr/podcasts/podcasts/)
 
+## Book Power for Kids 
+[Listen here.](https://podcasts.apple.com/us/podcast/book-power-for-kids/id1141688159?fbclid=IwAR0vJSW7Q2j9rNWlt1Bjcb8AbqZhVnHpKdDbtYlEgxL1m3Q0xbZGFvfQ6BI)
+
 ## City, University of London Podcasts
 Mix of podcasts to listen to from pyschology, macroeconomics, multiculturism and so on. [Listen here](https://chartable.com/creators/city-university-of-london)
+
+## Fun Kids Live
+Stories for kids and families, perfect for all ages! New episodes every week. [Listen here.](https://www.funkidslive.com/podcast/story-quest-stories-for-kids/?fbclid=IwAR3DUMAtO82A0UiEiWjAem2LCqjrPJdMR0ynnBKnZXX7QnOPW6XceQuvcVE#)
 
 ## General Podcast Access
 Mix of topics covering Corvid-19, mathematics, diversity, financial, animation. [Listen here.](https://player.fm/podcasts/university-of-london)
