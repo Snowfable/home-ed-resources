@@ -3,3 +3,4 @@ title: Home Education Resources
 site.pages: 
   - index.md
   - virtual-meetups.md
+show_downloads: false
