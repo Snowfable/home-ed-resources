@@ -10,8 +10,8 @@ A non-exhaustive list that might help those affected by school closures due to c
 
 
 ## BBC Learning
-http://www.bbc.co.uk/learning/coursesearch/
-This site is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer.
+
+This [site](http://www.bbc.co.uk/learning/coursesearch/) is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer.
 
 ## Big History Project
 https://www.bighistoryproject.com/home
