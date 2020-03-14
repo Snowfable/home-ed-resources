@@ -50,4 +50,4 @@ This less well-known gallery houses the art collection of one of Florence, Italy
 ## Van Gogh Museum, Amsterdam
 Anyone who is a fan of this tragic, ingenious painter can see his works up close (or, almost up close) by virtually visiting this museum – the largest collection of artworks by Vincent van Gogh, including over 200 paintings, 500 drawings, and over 750 personal letters. [Tour here.](https://artsandculture.google.com/partner/van-gogh-museum?hl=en)
 
-#### Original posting on Travel & Leisure: https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?utm_source=facebook.com&utm_medium=social&utm_campaign=social-share-article&utm_content=20200313
+{% include_relative footer.md %}
