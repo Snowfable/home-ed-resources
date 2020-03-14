@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Apps
-description: Pokey
 ---
 
 {% include_relative nav.md %}
