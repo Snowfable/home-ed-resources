@@ -39,6 +39,9 @@ Science awards you can complete from home. [Challenge here.](https://www.crestaw
 ## DK Find Out
 Activities and quizzes. [Link here.](https://www.dkfindout.com/uk/)
 
+## Drawspace
+Online drawing lessons. [Draw here.](https://www.drawspace.com)
+
 ## Duolingo
 Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 
@@ -50,6 +53,9 @@ Free to access 100s of courses, only pay to upgrade if you need a certificate in
 
 ## Geography Games
 [Link here.](https://world-geography-games.com/world.html)
+
+## How Stuff Works
+[How here.](https://science.howstuffworks.com)
 
 ## iDEA Awards
 Digital enterprise award scheme you can complete online. [Investigate here.](https://idea.org.uk)
@@ -105,8 +111,13 @@ All kinds of making. [Make here.](https://www.tinkercad.com)
 ## Toy Theater
 Educational online games. [Play here.](https://toytheater.com/)
 
+## Visnos Visual Numbers
+Visual mathematics, interactive teaching resources. [Math here.](https://www.visnos.com/home)
+
 ## World Monument Fund
 A non-profit organisation founded to preserve cultural heritage worldwide. [Discover more.](https://www.wmf.org/featured-projects)
 
+## Zooniverse
+People powered communal projects. [Join here.](https://www.zooniverse.org)
 
 {% include_relative footer.md %}
