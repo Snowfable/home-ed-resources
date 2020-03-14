@@ -65,6 +65,9 @@ Activities and quizzes. [Link here.](https://www.dkfindout.com/uk/)
 ## Drama Games for Kids
 A comprehensive resource of drama games for kids and teaching drama tips. [Act here.](http://www.bbbpress.com/dramagames/)
 
+## Drama Resources
+More drama resources to investigate. [Act here.](https://dramaresource.com/drama-resources/)
+
 ## Drawspace
 Online drawing lessons. [Draw here.](https://www.drawspace.com)
 
