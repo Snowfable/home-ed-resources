@@ -10,20 +10,16 @@ A non-exhaustive list that might help those affected by school closures due to c
 
 
 ## BBC Learning
-
 This [site](http://www.bbc.co.uk/learning/coursesearch/) is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer.
 
 ## Big History Project
-https://www.bighistoryproject.com/home
-Aimed at Secondary age. Multi disciplinary activities.
+Aimed at Secondary age. Multi disciplinary activities. [Link here.](https://www.bighistoryproject.com/home)
 
 ## Blockly
-https://blockly.games
-Learn computer programming skills - fun and free.
+Learn computer programming skills - fun and free. [Blockly here.](https://blockly.games)
 
 ## British Council
-https://www.britishcouncil.org/school-resources/find
-Resources for English language learning
+Resources for English language learning, [link here.](https://www.britishcouncil.org/school-resources/find)
 
 ## Cbeebies Radio
 https://www.bbc.co.uk/cbeebies/radio
