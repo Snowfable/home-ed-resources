@@ -75,6 +75,9 @@ A lot of these can be done in a garden, or if you can get to a remote forest loc
 ## Openlearn
 Free taster courses aimed at those considering Open University but everyone can access it. Adult level, but some e.g. nature and environment courses could well be of interest to young people. [Link here.](https://www.open.edu/openlearn/)
 
+## Open Yale Courses
+Free and open access to a selection of introductory courses. [Learn here.](https://oyc.yale.edu)
+
 ## Oxford Owl for Home
 Lots of free reading resources for Primary age. [Read here.](https://www.oxfordowl.co.uk/for-home/)
 
@@ -83,6 +86,9 @@ Free challenge packs and other downloads. Many activities can be completed indoo
 
 ## Prodigy Maths
 Is in U.S. grades, but good for UK Primary age. [Calculate here.](https://www.prodigygame.com)
+
+## Project Gutenberg
+Access to 33,000 free ebooks to read on PC, iPad, Kindle, Sony Reader, iPhone, Android or other portable device. Choose between ePub, Kindle, HTML and simple text formats. [Read here.](http://www.gutenberg.org)
 
 ## Red Ted Art
 Easy arts and crafts for little ones. [Craft here.](https://www.redtedart.com)
