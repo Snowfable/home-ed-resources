@@ -14,6 +14,9 @@ Celebrate the 50th anniversary of the Moon Landing with an immersive AR app that
 ## Bebras A Perfect Day
 Bebras challenges are enjoyed by over 1.6 million students in 50 countries around the world. Enjoy a gentle stroll through Bebravia's glorious countryside while solving 100 computational thinking challenges! [iOS link here.](https://apps.apple.com/gb/app/bebras-a-perfect-day/id1280953498)
 
+## Chop Chop Cooking Club
+Learn essential recipes every kid should master, including step-by-step instructions, videos and more. Earn badges for completing each recipe. [Cook here.](http://chopchopcookingclub.org/?fbclid=IwAR3iaCAMDFKTP889Ihg3iHm0gmt6AHifmDNc22CA_3NNPWOjDW2MWcZN7pY)
+
 ## Civilisations AR (BBC)
 Bring realistic, to-scale artefacts from History into your own home using cutting edge Augmented Reality technology. Move, scale and rotate the collection, allowing you to become the explorer. [Explore here.](https://play.google.com/store/apps/details?id=uk.co.bbc.civilisations&hl=en_GB&fbclid=IwAR32ew0DhcZp5oDyp8f_HfZ96HmA5OZo4s5lYctP2rrnExnHzlEgCpJkCaY)
 
