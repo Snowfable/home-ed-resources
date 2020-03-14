@@ -26,9 +26,6 @@ This famous American art museum features two online exhibits through Google. The
 ## National Museum of Anthropology, Mexico City
 Built in 1964, this museum is dedicated to the archaeology and history of Mexico’s pre-Hispanic heritage. There are 23 exhibit rooms filled with ancient artifacts, including some from the Mayan civilization. [Tour here.](https://artsandculture.google.com/asset/the-national-museum-of-anthropology-mexico-city-ziko-van-dijk-wikimedia-commons/bAGSHRdlzSRcdQ?hl=en)
 
-## The Louvre, Paris
-It's closed from today (March 2020). But you can still have a peek. [Tour here.](https://www.louvre.fr/en/visites-en-ligne)
-
 ## National Museum of Modern and Contemporary Art, Seoul
 One of Korea’s popular museums can be accessed from anywhere around the world. Google’s virtual tour takes you through six floors of Contemporary art from Korea and all over the globe. [Tour here.](https://artsandculture.google.com/partner/national-museum-of-modern-and-contemporary-art-korea?hl=en)
 
@@ -40,6 +37,12 @@ Explore the masterworks from the Dutch Golden Age, including works from Vermeer 
 
 ## The J. Paul Getty Museum, Los Angeles
 European artworks from as far back as the 8th Century can be found in this California art museum. Take a Street View tour to discover a huge collection of paintings, drawings, sculptures, manuscripts, and photographs. [Tour here.](https://artsandculture.google.com/partner/the-j-paul-getty-museum?hl=en)
+
+## The Louvre, Paris
+It's closed from today (March 2020). But you can still have a peek. [Tour here.](https://www.louvre.fr/en/visites-en-ligne)
+
+## The National Gallery, London
+[Link here.](https://artsandculture.google.com/partner/the-national-gallery-london?hl=en)
 
 ## Uffizi Gallery, Florence
 This less well-known gallery houses the art collection of one of Florence, Italy’s most famous families, the de'Medicis. The building was designed by Giorgio Vasari in 1560 specifically for Cosimo I de'Medici, but anyone can wander its halls from anywhere in the world. [Tour here.](https://artsandculture.google.com/partner/uffizi-gallery?hl=en)
