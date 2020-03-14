@@ -59,6 +59,9 @@ University course on special relativity, general relativity and quantum theory. 
 ## English Chess Federation
 For those who have interest in the game. [Play here.](https://www.englishchess.org.uk)
 
+## Fossils UK
+What is a Fossil? A fossil is an organism, creature, plant or burrow that lived millions of years ago. Fossils have the same density as rocks and weigh roughly the same. Fossils are preserved in rock or clay. [Dig here.](https://www.fossilidentification.org)
+
 ## Fun Brain
 Offers hundreds of games, books, comics, and videos that develop skills in math, reading, problem-solving and literacy. American system of grades Pre-K through 8. [Play here.](https://www.funbrain.com)
 
@@ -155,6 +158,9 @@ Creative art and craft activities for the very youngest. [Craft here.](https://t
 
 ## The Kids Should See This
 Wide range of cool educational videos. [See this.](https://thekidshouldseethis.com)
+
+## The Virtual Fossil Museum
+Fossils across geological time presented in multiple contexts of geological history, the tree of life, paleobiology and evolution. The Virtual Fossil Museum is an educational resource providing an ever-growing extensive collection of fossil images. [Excavate here.](http://www.fossilmuseum.net)
 
 ## Tinkercad
 All kinds of making. [Make here.](https://www.tinkercad.com)
