@@ -108,6 +108,9 @@ Archive of educational resources and lectures from universities. [Link here.](ht
 ## Openlearn
 Free taster courses aimed at those considering Open University but everyone can access it. Adult level, but some e.g. nature and environment courses could well be of interest to young people. [Link here.](https://www.open.edu/openlearn/)
 
+## OpenLearn Free Prints
+Download or order posters and booklets from your favourite OU/BBC programmes. [Link here.](https://www.open.edu/openlearn/tv-radio-events/order-your-free-print-items)
+
 ## Oxford Owl for Home
 Lots of free reading resources for Primary age. [Read here.](https://www.oxfordowl.co.uk/for-home/)
 
