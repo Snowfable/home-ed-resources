@@ -96,6 +96,9 @@ Activities and quizzes for younger kids. [Link here.](https://www.natgeokids.com
 ## Nature Detectives
 A lot of these can be done in a garden, or if you can get to a remote forest location! [Adventure here.](https://naturedetectives.woodlandtrust.org.uk/naturedetectives/)
 
+## Numberphile
+Love numbers? Here is a site all about numbers. [Number here.](https://www.numberphile.com)
+
 ## Open Yale Courses
 Free and open access to a selection of introductory courses. [Learn here.](https://oyc.yale.edu)
 
