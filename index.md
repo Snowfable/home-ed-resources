@@ -7,6 +7,7 @@ title: General Resources
 
 # Online education resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
+<br>
 
 ## Academic Earth
 Free online college courses from the world’s top universities. [Learn here.](https://academicearth.org)
@@ -14,6 +15,9 @@ Free online college courses from the world’s top universities. [Learn here.](h
 ## Adventures in Chemistry
 From the American Chemical Society, adventures in chemistry is a way for children to access more chemistry related learning.<br>[Website here.](https://www.acs.org/content/acs/en/education/whatischemistry/adventures-in-chemistry.html)
 <br>[More resources here](https://www.acs.org/content/acs/en/education/resources/k-8.html)
+
+## Art Contests for Kids
+Contests can be a way to help build confidence. [Challenge here.](https://www.samanthasbell.com/art-contests-for-kids/)
 
 ## BBC Learning
 This site is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer. [Access here.](http://www.bbc.co.uk/learning/coursesearch/) 
