@@ -82,13 +82,15 @@ Online drawing lessons. [Draw here.](https://www.drawspace.com)
 Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 
 ## Einstein for Everyone
-University course on special relativity, general relativity and quantum theory. Run at University of Pittsburgh by John D. Norton and Gal Ben Porath[Link here.](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
+University course on special relativity, general relativity and quantum theory. Run at University of Pittsburgh by John D. Norton and Gal Ben Porath. [Link here.](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 
 ## English Chess Federation
-For those who have interest in the game. [Play here.](https://www.englishchess.org.uk)
+A one-stop resource for chess players, chess organisers and interested parties alike. Join membership, find a club and you can event attempt the Certificate of Excellence award scheme. 
+<br>[Play here.](https://www.englishchess.org.uk)
+<br>[Certificate of Excellence.](https://www.englishchess.org.uk/certificate-of-excellence/)
 
 ## Famous People
-<br>[Famous Explorers.](http://famous-explorers.org)
+[Famous Explorers.](http://famous-explorers.org)
 <br>[Famous Female Mathematicians.](https://famous-mathematicians.com/top-10-female-mathematicians-time/)
 <br>[Famous Mathematicians.](http://famous-mathematicians.org)
 <br>[Famous Philosophers.](http://famous-philosophers.com)
@@ -102,11 +104,8 @@ Offers hundreds of games, books, comics, and videos that develop skills in math,
 ## Futurelearn
 Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 13+ but younger learners can use a parent account). [Link here.](https://www.futurelearn.com)
 
-## Geography Games
-[Link here.](https://world-geography-games.com/world.html)
-
 ## History of Maths
-Follow the long journey from antiquity, from the time of ancient Greek and Arab philosophers. Join us as we trace the spectacular evolution of mathematics through the centuries.[Link here.](https://www.superprof.co.uk/blog/learn-maths-history/?fbclid=IwAR2BAntfMaOPquMRz32KA3Jkio07ibLKEMh60z6ML0N8GFzOf1Ioju_3Z_8)
+Follow the long journey from antiquity, from the time of ancient Greek and Arab philosophers. Join us as we trace the spectacular evolution of mathematics through the centuries. [Link here.](https://www.superprof.co.uk/blog/learn-maths-history/?fbclid=IwAR2BAntfMaOPquMRz32KA3Jkio07ibLKEMh60z6ML0N8GFzOf1Ioju_3Z_8)
 
 ## Hour of Code
 Teaching how to code with a variety of themed games. [Code here.](https://code.org/learn)
@@ -264,6 +263,9 @@ Wikimedia Foundation project devoted to learning resources, learning projects, a
 From maths, science & technology, society & culture to everyday life, this is a unique and fun engine to peruse. 
 <br>[Main website.](https://www.wolframalpha.com)
 <br>[Famous Math Problems.](https://www.wolframalpha.com/examples/mathematics/famous-math-problems/)
+
+## World Geography Games
+World Geography Games offers you challenging and entertaining quiz games to improve your geographical knowledge. [Link here.](https://world-geography-games.com/world.html)
 
 ## World Monument Fund
 A non-profit organisation founded to preserve cultural heritage worldwide. [Discover more.](https://www.wmf.org/featured-projects)
