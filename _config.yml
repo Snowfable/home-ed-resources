@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Home Education Resources
+is_project_page: false
 site.pages: 
   - index.md
   - virtual-meetups.md
