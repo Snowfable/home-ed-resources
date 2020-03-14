@@ -136,6 +136,9 @@ A Youtube Channel all about science and stories about the planet. [Watch here.](
 ## Mystery Science
 Free science lessons. [Investigate here.](https://mysteryscience.com)
 
+## NaNoWriMo
+A nonprofit organization that provides tools, structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds — on and off the page.[Write here.](https://nanowrimo.org)
+
 ## National Geographic Kids
 Activities and quizzes for younger kids. [Link here.](https://www.natgeokids.com/uk/)
 
@@ -229,6 +232,9 @@ All kinds of making. [Make here.](https://www.tinkercad.com)
 ## Toy Theater
 Educational online games. [Play here.](https://toytheater.com/)
 
+## Video Interviews with Top Children's Authors and Illustrators
+Watch Reading Rockets' exclusive video interviews with top children's book authors and illustrators. [Watch here.](https://www.readingrockets.org/books/interviews)
+
 ## Visnos Visual Numbers
 Visual mathematics, interactive teaching resources. [Math here.](https://www.visnos.com/home)
 
@@ -245,6 +251,9 @@ From maths, science & technology, society & culture to everyday life, this is a 
 
 ## World Monument Fund
 A non-profit organisation founded to preserve cultural heritage worldwide. [Discover more.](https://www.wmf.org/featured-projects)
+
+## Writers Speak to Kids
+In this NBC Learn special collection, children‘s book authors share their writing experiences to help students learn more about the craft and techniques of creative writing. [Watch now.](https://www.nbclearn.com/writers-speak-to-kids)
 
 ## Zooniverse
 People powered communal projects. [Join here.](https://www.zooniverse.org)
