@@ -50,6 +50,9 @@ Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 ## English Chess Federation
 For those who have interest in the game. [Play here.](https://www.englishchess.org.uk)
 
+## Fun Brain
+Offers hundreds of games, books, comics, and videos that develop skills in math, reading, problem-solving and literacy. American system of grades Pre-K through 8. [Play here.](https://www.funbrain.com)
+
 ## Futurelearn
 Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 14+ but younger learners can use a parent account). [Link here.](https://www.futurelearn.com)
 
