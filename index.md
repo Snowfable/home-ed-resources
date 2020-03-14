@@ -53,6 +53,9 @@ Online drawing lessons. [Draw here.](https://www.drawspace.com)
 ## Duolingo
 Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 
+## Einstein for Everyone
+University course on special relativity, general relativity and quantum theory. Run at University of Pittsburgh by John D. Norton and Gal Ben Porath[Link here.](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
+
 ## English Chess Federation
 For those who have interest in the game. [Play here.](https://www.englishchess.org.uk)
 
