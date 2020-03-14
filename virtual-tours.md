@@ -49,7 +49,7 @@ This small wooden building is remarkably still intact after a centuary. [Look he
 ## Statue of Liberty, USA
 This was a gift of friendship from the people of France to the United States and is recognized as a universal symbol of freedom and democracy. [Look here.](https://artsandculture.google.com/streetview/statue-of-liberty/QwHgbIESI1SWgQ?hl=en)
 
-## Stone Henge, Avebury UK
+## Stonehenge, Avebury UK
 A prehistoric monument built between 3000BC to 2000BC. One of the most famous landmarks in Britain. [Tour here.](https://artsandculture.google.com/streetview/stonehenge-avebury/TwED7nyNxm_hxg?hl=en)
 
 ## Taj Mahal, India
