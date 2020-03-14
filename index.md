@@ -3,7 +3,7 @@ layout: default
 title: General Resources
 ---
 
-[General Resources](./index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Virtual Meetups](./virtual-meetups.html)
+[General Resources](./index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Virtual Meetups](./virtual-meetups.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apps](./apps.html)
 
 # Online education resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. Feel free to share. 
