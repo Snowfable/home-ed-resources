@@ -6,8 +6,8 @@ title: Virtual Tours around the World
 {% include_relative nav.md %}
 
 # Thousands of Virtual Tours
-From Temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. [Tour Museums](https://artsandculture.google.com/search/streetview?hl=en)
-<br>[Read about how they do it.](https://artsandculture.google.com/project/openheritage)
+From Temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. [Tour sites here.](https://artsandculture.google.com/search/streetview?hl=en)
+<br>[Read about how they capture here.](https://artsandculture.google.com/project/openheritage)
 
 
 ## Ancient Nara: Yakushi-ji Temple
