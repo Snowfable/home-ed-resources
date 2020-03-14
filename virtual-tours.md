@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Virtual Museum Tours
-description: Tour worlds near or far
+title: Virtual Tours around the World
 ---
 
 {% include_relative nav.md %}
