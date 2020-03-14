@@ -141,6 +141,9 @@ A lot of these can be done in a garden, or if you can get to a remote forest loc
 ## New York Philharmonic Kidzone
 A variety of music related games to play. [Play here.](https://www.nyphilkids.org)
 
+## NGAkids Art Zone
+Featuring a variety of art-making tools that encourage exploration and creativity, these computer-based activities are suitable for all ages. [Paint here.](https://www.nga.gov/education/kids.html)
+
 ## Numberphile
 Love numbers? Here is a site all about numbers. [Number here.](https://www.numberphile.com)
 
