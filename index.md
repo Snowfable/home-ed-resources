@@ -29,6 +29,9 @@ Resources for English language learning. [Link here.](https://www.britishcouncil
 ## Cbeebies Radio
 Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/cbeebies/radio)
 
+## Cool Math 4 Kids
+Online maths games for young children. American based. [Link here.](https://www.coolmath4kids.com)
+
 ## Crash Course
 You Tube videos on many subjects. [Watch here.](https://thecrashcourse.com)
 
