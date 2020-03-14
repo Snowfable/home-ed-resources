@@ -145,6 +145,9 @@ Activities and quizzes for younger kids. [Link here.](https://www.natgeokids.com
 ## Nature Detectives
 A lot of these can be done in a garden, or if you can get to a remote forest location! [Adventure here.](https://naturedetectives.woodlandtrust.org.uk/naturedetectives/)
 
+## New Pages Young Writers Guide
+Where young writers can find print and online literary magazines to read, places to publish their own works, and legitimate contests. [Write here.](https://www.newpages.com/writers-resources/young-writers-guide)
+
 ## New York Philharmonic Kidzone
 A variety of music related games to play. [Play here.](https://www.nyphilkids.org)
 
@@ -208,6 +211,9 @@ For those revising at GCSE or A level. Tons of free revision content. Paid acces
 ## Ted Ed
 All sorts of engaging educational videos. [Watch here.](https://ed.ted.com)
 
+## Teen Ink
+Writing by teens for teens. [Read here.](https://www.teenink.com)
+
 ## The Artful Parent
 Good, free art activities linked to from this Facebook page. [Craft here.](https://www.facebook.com/artfulparent/)
 
@@ -217,11 +223,18 @@ From monologues, two person scenes, playwriting to group scenes, directing and p
 ## The Feynman Lectures on Physics
 Free to read online, high quality up-to-date copy of Feynman's legendary lectures. [Link here.](https://www.feynmanlectures.caltech.edu)
 
+## The Ig Nobel Prize
+For achievements that first make people LAUGH
+then make them THINK. [Intrigue here.](https://www.improbable.com/ig-about/winners/)
+
 ## The Imagination Tree
 Creative art and craft activities for the very youngest. [Craft here.](https://theimaginationtree.com)
 
 ## The Kids Should See This
 Wide range of cool educational videos. [See this.](https://thekidshouldseethis.com)
+
+## The Nobel Prize
+Official website of the Nobel Prize. [Link here.](https://www.nobelprize.org)
 
 ## The Virtual Fossil Museum
 Fossils across geological time presented in multiple contexts of geological history, the tree of life, paleobiology and evolution. The Virtual Fossil Museum is an educational resource providing an ever-growing extensive collection of fossil images. [Excavate here.](http://www.fossilmuseum.net)
@@ -237,6 +250,9 @@ Watch Reading Rockets' exclusive video interviews with top children's book autho
 
 ## Visnos Visual Numbers
 Visual mathematics, interactive teaching resources. [Math here.](https://www.visnos.com/home)
+
+## Visuwords
+Visual dictionary, thesaurus and interactive lexicon. [Visualise here.](https://visuwords.com)
 
 ## Wikibooks
 Open content textbook collection. [Read here.](https://en.wikibooks.org/wiki/Main_Page)
@@ -254,6 +270,9 @@ A non-profit organisation founded to preserve cultural heritage worldwide. [Disc
 
 ## Writers Speak to Kids
 In this NBC Learn special collection, children‘s book authors share their writing experiences to help students learn more about the craft and techniques of creative writing. [Watch now.](https://www.nbclearn.com/writers-speak-to-kids)
+
+## Writing Contests for Kids 
+This round-up of writing contests for kids and opportunities might just help give young writers their first chance at publication. [Write here.](https://imaginationsoup.net/writing-contests-kids-ways-get-published/)
 
 ## Zooniverse
 People powered communal projects. [Join here.](https://www.zooniverse.org)
