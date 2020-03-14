@@ -29,6 +29,9 @@ A tool for exploring a variety of mathematical topics introduced in the elementa
 ## How many Saturdays?
 What if you were to measure the time of your life in other, very different units? Does life feel shorter? Longer? More absurd? More precious? [Link here.](https://www.exploratorium.edu/explore/apps/how-many-saturdays)
 
+## Millie Marotta’s Coloring Adventures
+Blend, shade, layer and change colours to your heart’s content in my colouring app Millie Marotta’s Colouring Adventures. [Colour here.](https://milliemarotta.co.uk/app/?fbclid=IwAR1PeQK5vCYqAUlrmgizFZXONZ3IUWNA3ZnByN7AqfEYnPyjkEt-Y2qxnyg)
+
 ## Physics Studio
 A virtual lab to learn school physics. [Link here](https://chrome.google.com/webstore/detail/physics-studio/acdjlkhckndkodkecjhflckmgbbphhnb?hl=en&fbclid=IwAR0Of_bsjOl5Ez7S4okT-3mvze8YEYFiEUXTtMYUKxPmzcyfLvIi0hvIGGc)
 
@@ -55,6 +58,9 @@ Created by NASA’s Jet Propulsion Laboratory, this stunning educational app use
 
 ## Swift Playgrounds
 Swift Playgrounds is a revolutionary app that makes it fun to learn and experiment with code. You solve interactive puzzles in the guided “Learn to Code” lessons to master the basics of coding, or experiment with a wide range of challenges that let you explore many unique coding experiences. [Code here.](https://apps.apple.com/gb/app/swift-playgrounds/id908519492?fbclid=IwAR32ew0DhcZp5oDyp8f_HfZ96HmA5OZo4s5lYctP2rrnExnHzlEgCpJkCaY)
+
+## TED Talks
+Watch TED talks wherever you are. [Link here.](https://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks?fbclid=IwAR16eZFvq2uzVlm9krsJJoB1dcy7-QUN-7FXdcOFAfkFbMZP2IGNxLex16c)
 
 ## Total Solar Eclipse
 This app allows you to view three simultaneous video streams: 1) LIVE coverage hosted by Exploratorium educators and NASA scientists, 2) LIVE coverage in Spanish hosted by Exploratorium educators, and 3) a non-narrated, two and a half hour live telescope view of the full eclipse. [Eclipse here.](https://www.exploratorium.edu/explore/apps/total-solar-eclipse-app)
