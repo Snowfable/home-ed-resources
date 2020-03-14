@@ -62,6 +62,9 @@ Science awards you can complete from home. [Challenge here.](https://www.crestaw
 ## DK Find Out
 Activities and quizzes. [Link here.](https://www.dkfindout.com/uk/)
 
+## Drama Games for Kids
+A comprehensive resource of drama games for kids and teaching drama tips. [Act here.](http://www.bbbpress.com/dramagames/)
+
 ## Drawspace
 Online drawing lessons. [Draw here.](https://www.drawspace.com)
 
@@ -191,6 +194,9 @@ All sorts of engaging educational videos. [Watch here.](https://ed.ted.com)
 
 ## The Artful Parent
 Good, free art activities linked to from this Facebook page. [Craft here.](https://www.facebook.com/artfulparent/)
+
+## Theatre Folk Resources
+From monologues, two person scenes, playwriting to group scenes, directing and playwriting. [Act here.](https://www.theatrefolk.com/free-resources)
 
 ## The Feynman Lectures on Physics
 Free to read online, high quality up-to-date copy of Feynman's legendary lectures. [Link here.](https://www.feynmanlectures.caltech.edu)
