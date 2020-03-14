@@ -1,3 +1,9 @@
+---
+layout: default
+title: General Resources
+description: 
+---
+
 # Online education resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. Feel free to share. 
 
