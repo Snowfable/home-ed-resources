@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Online Meetups
-description: I need lols
 ---
 
 {% include_relative nav.md %}
