@@ -21,7 +21,7 @@ Mix of podcasts to listen to from pyschology, macroeconomics, multiculturism and
 Stories for kids and families, perfect for all ages! New episodes every week. [Listen here.](https://www.funkidslive.com/podcast/story-quest-stories-for-kids/?fbclid=IwAR3DUMAtO82A0UiEiWjAem2LCqjrPJdMR0ynnBKnZXX7QnOPW6XceQuvcVE#)
 
 ## General Podcast Access
-Mix of topics covering Corvid-19, mathematics, diversity, financial, animation. [Listen here.](https://player.fm/podcasts/university-of-london)
+Mix of topics covering Covid-19, mathematics, diversity, financial, animation. [Listen here.](https://player.fm/podcasts/university-of-london)
  
 ## Noodle Loaf
 For about 10 minutes at a time, Noodle Loaf invites the family to join together for some creative fun. 
