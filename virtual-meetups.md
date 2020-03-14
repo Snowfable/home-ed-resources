@@ -36,3 +36,5 @@ Live online classes for kids, many on fun topics (always plenty for Pokémon and
 ## Zoom
 
 Designed for video conferencing, this online platform is free for 45 minute sessions and has video, text chat, screen sharing and interactive whiteboard. Sign up, then generate a link and share it with only those you want to meet with online (they must also have signed up). You can screenshare videos and discuss favourite things. Maybe kids can run their own book group or film discussion class? [Link here.](https://zoom.us)
+
+{% include_relative footer.md %}
