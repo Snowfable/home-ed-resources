@@ -6,9 +6,12 @@ Feel free to share.
 
 ## Zoom
 
-https://zoom.us
+[Zoom](https://zoom.us)
 
-Designed for video conferencing, this online platform is free for 45 minute sessions and has video, text chat, screen sharing and interactive whiteboard. Sign up, then generate a link and share it with only those you want to meet with online (they must also have signed up). You can screenshare videos and discuss favourite things. Maybe kids can run their own book group or film discussion class? Or how about one leading others on a virtual museum tour? https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?utm_source=facebook.com&utm_medium=social&utm_campaign=social-share-article&utm_content=20200313
+
+Designed for video conferencing, this online platform is free for 45 minute sessions and has video, text chat, screen sharing and interactive whiteboard. Sign up, then generate a link and share it with only those you want to meet with online (they must also have signed up). You can screenshare videos and discuss favourite things. Maybe kids can run their own book group or film discussion class? 
+
+Or how about one leading others on a virtual museum tour? https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?utm_source=facebook.com&utm_medium=social&utm_campaign=social-share-article&utm_content=20200313
 
 
 ## Minecraft
