@@ -36,6 +36,9 @@ Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/
 ## Cells Alive!
 Explore, study and play all about cells, microbes and the immune system. [Link here.](https://www.cellsalive.com)
 
+## Chemistry Online Interactive Activities for Students
+Activities that cover the following chapters: periodic table, atomic energy, chemical bonding, chemical reactions, chemical dynamics and solutions. [Bond away.](https://www.uen.org/core/science/studentactivities/chemistry.shtml)
+
 ## Code Monster
 Code Monster teaches kids and adults a little about Javascript programming! It's easy to play. Follow the instructions and do what Code Monster says. If you get stuck, just skip to the next lesson. You can always come back to it later! [Code here.](http://www.crunchzilla.com/code-monster)
 
@@ -73,6 +76,12 @@ University course on special relativity, general relativity and quantum theory. 
 
 ## English Chess Federation
 For those who have interest in the game. [Play here.](https://www.englishchess.org.uk)
+
+## Famous People
+<br>[Famous Explorers.](http://famous-explorers.org)
+<br>[Famous Female Mathematicians.](https://famous-mathematicians.com/top-10-female-mathematicians-time/)
+<br>[Famous Mathematicians.](http://famous-mathematicians.org)
+<br>[Famous Philosophers.](http://famous-philosophers.com)
 
 ## Fossils UK
 What is a Fossil? A fossil is an organism, creature, plant or burrow that lived millions of years ago. Fossils have the same density as rocks and weigh roughly the same. Fossils are preserved in rock or clay. [Dig here.](https://www.fossilidentification.org)
@@ -122,6 +131,9 @@ Activities and quizzes for younger kids. [Link here.](https://www.natgeokids.com
 
 ## Nature Detectives
 A lot of these can be done in a garden, or if you can get to a remote forest location! [Adventure here.](https://naturedetectives.woodlandtrust.org.uk/naturedetectives/)
+
+## New York Philharmonic Kidzone
+A variety of music related games to play. [Play here.](https://www.nyphilkids.org)
 
 ## Numberphile
 Love numbers? Here is a site all about numbers. [Number here.](https://www.numberphile.com)
@@ -206,6 +218,11 @@ Open content textbook collection. [Read here.](https://en.wikibooks.org/wiki/Mai
 
 ## Wikiversity
 Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. [Link here.](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+
+## WolframAlpha
+From maths, science & technology, society & culture to everyday life, this is a unique and fun engine to peruse. 
+<br>[Main website.](https://www.wolframalpha.com)
+<br>[Famous Math Problems.](https://www.wolframalpha.com/examples/mathematics/famous-math-problems/)
 
 ## World Monument Fund
 A non-profit organisation founded to preserve cultural heritage worldwide. [Discover more.](https://www.wmf.org/featured-projects)
