@@ -172,6 +172,9 @@ Free challenge packs and other downloads. Many activities can be completed indoo
 ## PhET Interative Simulations
 Simulations covering general chemistry and quantum chemistry. From the University of Colorado Boulder. [Link here.](https://phet.colorado.edu/en/simulations/category/chemistry)
 
+## Photography Contests for Kids
+Allowing children the chance to express themselves through photography. [Click here.](https://photography.lovetoknow.com/Young_Photography_Contests)
+
 ## Prodigy Maths
 Is in U.S. grades, but good for UK Primary age. [Calculate here.](https://www.prodigygame.com)
 
