@@ -22,35 +22,28 @@ Learn computer programming skills - fun and free. [Blockly here.](https://blockl
 Resources for English language learning, [link here.](https://www.britishcouncil.org/school-resources/find)
 
 ## Cbeebies Radio
-https://www.bbc.co.uk/cbeebies/radio
-Listening activities for the younger ones.
+Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/cbeebies/radio)
 
 ## Crash Course
-https://thecrashcourse.com
-You Tube videos on many subjects
+You Tube videos on many subjects, [watch here.](https://thecrashcourse.com)
 
 ## Crash Course Kids
-https://m.youtube.com/user/crashcoursekids
-As above for a younger audience
+As above for a younger audience, [watch here.](https://m.youtube.com/user/crashcoursekids)
 
 ## Crest Awards
-https://www.crestawards.org
-Science awards you can complete from home.
+Science awards you can complete from home. [Challenge here.](https://www.crestawards.org)
 
 ## DK Find Out
-https://www.dkfindout.com/uk/…
-Activities and quizzes
+Activities and quizzes. [Link here.](https://www.dkfindout.com/uk/)
 
 ## Duolingo
-https://www.duolingo.com
-Learn languages for free. Web or app.
+Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 
 ## Futurelearn
-https://www.futurelearn.com
-Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 14+ but younger learners can use a parent account).
+Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 14+ but younger learners can use a parent account). [Link here.](https://www.futurelearn.com)
 
 ## Geography Games
-https://world-geography-games.com/world.html
+[Link here.](https://world-geography-games.com/world.html)
 
 ## Geography gaming!
 Blue Peter Badges
