@@ -29,6 +29,9 @@ Resources for English language learning. [Link here.](https://www.britishcouncil
 ## Cbeebies Radio
 Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/cbeebies/radio)
 
+## Code Monster
+Code Monster teaches kids and adults a little about Javascript programming! It's easy to play. Follow the instructions and do what Code Monster says. If you get stuck, just skip to the next lesson. You can always come back to it later! [Code here.](http://www.crunchzilla.com/code-monster)
+
 ## Compound Interest
 Compound Interest is a site that aims to take a closer look at the chemical compounds we come across on a day-to-day basis, explaining them with easy-to-understand graphics. [Investigate here.](https://www.compoundchem.com/infographics/)
 
@@ -87,6 +90,9 @@ Teaching how to code with a variety of themed games. [Code here.](https://code.o
 ## iDEA Awards
 Digital enterprise award scheme you can complete online. [Investigate here.](https://idea.org.uk)
 
+## Instructables: Engineering STEM Projects
+Easy and fun collection of STEM projects and lessons for elementary and middle school. Made for teachers, science fairs, and weekend activities. [Make here.](https://www.instructables.com/id/Project-Based-Engineering-for-Kids/)
+
 ## Jakub Marian
 Czech linguist, data scientist, graphic designer, and musician who creates educational materials for students. Has produced more than 700+ articles and 7 books on variety of subjects. [Look here.](https://jakubmarian.com)
 
@@ -95,6 +101,9 @@ Especially good for maths and computing for all ages but other subjects at Secon
 
 ## Languages (BBC)
 No longer being updated but the information is still here. Around 33 languages from French, Spanish, German to Finnish, urdu and Serbian. [Learn here.](http://www.bbc.co.uk/languages/)
+
+## MinuteEarth
+A Youtube Channel all about science and stories about the planet. [Watch here.](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w)
 
 ## Mystery Science
 Free science lessons. [Investigate here.](https://mysteryscience.com)
@@ -140,6 +149,9 @@ American based, day-to-day activities for children. [Link here.](https://classro
 
 ## Science Bob
 A variety of walk through experiments to learn and recreate at home. [Experiment here.](https://sciencebob.com)
+
+## Science Kids
+The aim of Science Kids is to provide educational resources for teachers and parents that help make science fun and engaging for kids, taking important concepts and putting them into a form that kids can not only understand but also enjoy. [Learn here.](http://www.sciencekids.co.nz)
 
 ## Scratch
 Creative computer programming. [Program here.](https://scratch.mit.edu/explore/projects/games/)
