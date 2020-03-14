@@ -6,7 +6,7 @@ title: General Resources
 {% include_relative nav.md %}
 
 # Online education resources 
-A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. Feel free to share. 
+A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
 
 
 ## BBC Learning
@@ -92,6 +92,9 @@ Access to 33,000 free ebooks to read on PC, iPad, Kindle, Sony Reader, iPhone, A
 
 ## Red Ted Art
 Easy arts and crafts for little ones. [Craft here.](https://www.redtedart.com)
+
+## Scholastic Learn at Home
+American based, day-to-day activities for children. [Link here.](https://classroommagazines.scholastic.com/support/learnathome.html?fbclid=IwAR3DUMAtO82A0UiEiWjAem2LCqjrPJdMR0ynnBKnZXX7QnOPW6XceQuvcVE)
 
 ## Scratch
 Creative computer programming. [Program here.](https://scratch.mit.edu/explore/projects/games/)
