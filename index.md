@@ -29,6 +29,9 @@ Resources for English language learning. [Link here.](https://www.britishcouncil
 ## Cbeebies Radio
 Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/cbeebies/radio)
 
+## Compound Interest
+Compound Interest is a site that aims to take a closer look at the chemical compounds we come across on a day-to-day basis, explaining them with easy-to-understand graphics. [Investigate here.](https://www.compoundchem.com/infographics/)
+
 ## Cool Math 4 Kids
 Online maths games for young children. American based. [Link here.](https://www.coolmath4kids.com)
 
