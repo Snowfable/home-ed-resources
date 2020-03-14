@@ -47,6 +47,9 @@ Activities and quizzes. [Link here.](https://www.dkfindout.com/uk/)
 ## Drawspace
 Online drawing lessons. [Draw here.](https://www.drawspace.com)
 
+## Ducksters Education Site
+[Learn here.](https://www.ducksters.com)
+
 ## Duolingo
 Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 
@@ -87,11 +90,14 @@ Activities and quizzes for younger kids. [Link here.](https://www.natgeokids.com
 ## Nature Detectives
 A lot of these can be done in a garden, or if you can get to a remote forest location! [Adventure here.](https://naturedetectives.woodlandtrust.org.uk/naturedetectives/)
 
-## Openlearn
-Free taster courses aimed at those considering Open University but everyone can access it. Adult level, but some e.g. nature and environment courses could well be of interest to young people. [Link here.](https://www.open.edu/openlearn/)
-
 ## Open Yale Courses
 Free and open access to a selection of introductory courses. [Learn here.](https://oyc.yale.edu)
+
+## Open Educational Resources
+Archive of educational resources and lectures from universities. [Link here.](https://archive.org/details/education)
+
+## Openlearn
+Free taster courses aimed at those considering Open University but everyone can access it. Adult level, but some e.g. nature and environment courses could well be of interest to young people. [Link here.](https://www.open.edu/openlearn/)
 
 ## Oxford Owl for Home
 Lots of free reading resources for Primary age. [Read here.](https://www.oxfordowl.co.uk/for-home/)
@@ -110,6 +116,9 @@ Easy arts and crafts for little ones. [Craft here.](https://www.redtedart.com)
 
 ## Scholastic Learn at Home
 American based, day-to-day activities for children. [Link here.](https://classroommagazines.scholastic.com/support/learnathome.html?fbclid=IwAR3DUMAtO82A0UiEiWjAem2LCqjrPJdMR0ynnBKnZXX7QnOPW6XceQuvcVE)
+
+## Science Bob
+A variety of walk through experiments to learn and recreate at home. [Experiment here.](https://sciencebob.com)
 
 ## Scratch
 Creative computer programming. [Program here.](https://scratch.mit.edu/explore/projects/games/)
