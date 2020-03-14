@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
 title: Home Education Resources
 github.is_project_page: false
-site.pages: 
-  - index.md
-  - virtual-meetups.md
 show_downloads: false
