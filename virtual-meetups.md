@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Virtual Meetups
+title: Online Meetups
 description: I need lols
 ---
 
 {% include_relative nav.md %}
 
-# Virtual Meetups
+# Online Meetups
 Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online. Feel free to share!
 
 
