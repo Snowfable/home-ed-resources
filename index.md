@@ -138,6 +138,9 @@ All sorts of engaging educational videos. [Watch here.](https://ed.ted.com)
 ## The Artful Parent
 Good, free art activities linked to from this Facebook page. [Craft here.](https://www.facebook.com/artfulparent/)
 
+## The Feynman Lectures on Physics
+Free to read online, high quality up-to-date copy of Feynman's legendary lectures. [Link here.](https://www.feynmanlectures.caltech.edu)
+
 ## The Imagination Tree
 Creative art and craft activities for the very youngest. [Craft here.](https://theimaginationtree.com)
 
