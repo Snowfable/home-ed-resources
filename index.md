@@ -147,6 +147,9 @@ Educational online games. [Play here.](https://toytheater.com/)
 ## Visnos Visual Numbers
 Visual mathematics, interactive teaching resources. [Math here.](https://www.visnos.com/home)
 
+## Wikiversity
+Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. [Link here.](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+
 ## World Monument Fund
 A non-profit organisation founded to preserve cultural heritage worldwide. [Discover more.](https://www.wmf.org/featured-projects)
 
