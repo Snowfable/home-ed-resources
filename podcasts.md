@@ -15,7 +15,8 @@ If you want to know who invented cheese, why the grass is green, and whether thi
 Subjecs on population, environment, gender and more. [Listen here.](http://www.bbk.ac.uk/bisr/podcasts/podcasts/)
 
 ## Book Power for Kids 
-[Listen here.](https://podcasts.apple.com/us/podcast/book-power-for-kids/id1141688159?fbclid=IwAR0vJSW7Q2j9rNWlt1Bjcb8AbqZhVnHpKdDbtYlEgxL1m3Q0xbZGFvfQ6BI)
+Book reviews as fun as the books they're about!
+Check out our new website at https://bookpowerforkids.com/ [Listen here.](https://podcasts.apple.com/us/podcast/book-power-for-kids/id1141688159?fbclid=IwAR0vJSW7Q2j9rNWlt1Bjcb8AbqZhVnHpKdDbtYlEgxL1m3Q0xbZGFvfQ6BI)
 
 ## Cbeebies Radio Podcast
 CBeebies takes you to a world of sound and music, where you can share imaginative adventures and listen to stories with your favourite CBeebies friends and characters. Updated daily. [Listen here.](https://www.bbc.co.uk/programmes/p02pnn9d/episodes/downloads?fbclid=IwAR0Of_bsjOl5Ez7S4okT-3mvze8YEYFiEUXTtMYUKxPmzcyfLvIi0hvIGGc)
