@@ -8,6 +8,8 @@ title: General Resources
 # Online education resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
 
+## Academic Earth
+Free online college courses from the world’s top universities. [Learn here.](https://academicearth.org)
 
 ## BBC Learning
 This site is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer. [Access here.](http://www.bbc.co.uk/learning/coursesearch/) 
