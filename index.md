@@ -29,6 +29,9 @@ Resources for English language learning. [Link here.](https://www.britishcouncil
 ## Cbeebies Radio
 Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/cbeebies/radio)
 
+## Cells Alive!
+Explore, study and play all about cells, microbes and the immune system. [Link here.](https://www.cellsalive.com)
+
 ## Code Monster
 Code Monster teaches kids and adults a little about Javascript programming! It's easy to play. Follow the instructions and do what Code Monster says. If you get stuck, just skip to the next lesson. You can always come back to it later! [Code here.](http://www.crunchzilla.com/code-monster)
 
@@ -151,6 +154,9 @@ American based, day-to-day activities for children. [Link here.](https://classro
 
 ## Science Bob
 A variety of walk through experiments to learn and recreate at home. [Experiment here.](https://sciencebob.com)
+
+## Science Journal for Kids
+Hundreds of scientific articles. Written for kids. Approved by scientists. [Read here.](https://sciencejournalforkids.org)
 
 ## Science Kids
 The aim of Science Kids is to provide educational resources for teachers and parents that help make science fun and engaging for kids, taking important concepts and putting them into a form that kids can not only understand but also enjoy. [Learn here.](http://www.sciencekids.co.nz)
