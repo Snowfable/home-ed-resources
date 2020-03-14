@@ -62,6 +62,10 @@ Free to access 100s of courses, only pay to upgrade if you need a certificate in
 ## Geography Games
 [Link here.](https://world-geography-games.com/world.html)
 
+## Hour of Code
+Teaching how to code with a variety of themed games. [Code here.](https://code.org/learn)
+<br>Check out their Minecraft Hour of Code Tutorials. [Code here.](https://code.org/minecraft)
+
 ## How Stuff Works
 [How here.](https://science.howstuffworks.com)
 
