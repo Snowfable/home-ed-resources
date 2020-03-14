@@ -4,6 +4,8 @@ title: Virtual Museum Tours
 description: Tour museums a world away
 ---
 
+[General Resources](./index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Virtual Meetups](./virtual-meetups.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apps](./apps.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tour Museums](./tour-museums.html)
+
 # 12 Museums - Virtual Tours
 
 ## British Museum - London
