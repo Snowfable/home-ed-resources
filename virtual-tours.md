@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Virtual Museum Tours
-description: Tour museums a world away
+description: Tour worlds near or far
 ---
 
 {% include_relative nav.md %}
 
 # Thousands of Virtual Tours
-From art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. [Tour Museums](https://artsandculture.google.com/search/streetview?hl=en) [Read about how they do it.](https://artsandculture.google.com/project/openheritage)
+From Temples to art museums and heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. [Tour Museums](https://artsandculture.google.com/search/streetview?hl=en) [Read about how they do it.](https://artsandculture.google.com/project/openheritage)
 
 ## Ancient Nara: Yakushi-ji Temple
 [Tour here.](https://artsandculture.google.com/streetview/ancient-nara-yakushi-ji-temple/MgGege7HM9Ja8w?hl=en&sv_lng=135.7844693898109&sv_lat=34.66823987034128&sv_h=115.59&sv_p=17.36&sv_pid=fk3GiyGT4LtRsiwlVZ89sg&sv_z=1)
@@ -15,11 +15,17 @@ From art museums to heritage sites all around the world. You can access virutal 
 ## British Museum - London
 This iconic museum located in the heart of London allows virtual visitors to tour the Great Court and discover the ancient Rosetta Stone and Egyptian mummies. You can also find hundreds of artifacts on the museum’s virtual tour. [Tour here.](https://britishmuseum.withgoogle.com)
 
+## Cabinet Room, London, UK
+[Peek here.](https://artsandculture.google.com/streetview/cabinet-room-10-downing-street/MAGKMQpcfU8UKA?hl=en)
+
 ## Great Barrier Reef
 [Tour here.](https://artsandculture.google.com/streetview/great-barrier-reef/zgGFG_Mu3kqWEw?hl=en&sv_lng=152.7169205864063&sv_lat=-24.11509362375578&sv_h=206&sv_p=14&sv_pid=CAoSLEFGMVFpcE15cXoxTFBOdWVkeEVLakVad2VqQU4zTHl6bGpWZjc4QV9SY1Fw&sv_z=1)
 
 ## Guggenheim Museum, New York
 Google’s Street View feature lets visitors tour the Guggenheim’s famous spiral staircase without ever leaving home. From there, you can discover incredible works of art from the Impressionist, Post-Impressionist, Modern and Contemporary eras. [Tour here.](https://artsandculture.google.com/streetview/solomon-r-guggenheim-museum-interior-streetview/jAHfbv3JGM2KaQ?hl=en&sv_lng=-73.95902634325634&sv_lat=40.78285751667664&sv_h=30.75703204567916&sv_p=0.06928383072430222&sv_pid=MfnUmHRyOSzMtY3vtYU05g&sv_z=0.9645743015259163)
+
+## Houston Museum of Natural Science
+[Tour here.](https://artsandculture.google.com/streetview/houston-museum-of-natural-science/_wFlHDt_qUqYXQ?hl=en)
 
 ## Musée d’Orsay, Paris
 You can virtually walk through this popular gallery that houses dozens of famous works from French artists who worked and lived between 1848 and 1914. Get a peek at artworks from Monet, Cézanne, and Gauguin, among others. [Tour here.](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
@@ -30,17 +36,23 @@ This famous American art museum features two online exhibits through Google. The
 ## National Museum of Anthropology, Mexico City
 Built in 1964, this museum is dedicated to the archaeology and history of Mexico’s pre-Hispanic heritage. There are 23 exhibit rooms filled with ancient artifacts, including some from the Mayan civilization. [Tour here.](https://artsandculture.google.com/asset/the-national-museum-of-anthropology-mexico-city-ziko-van-dijk-wikimedia-commons/bAGSHRdlzSRcdQ?hl=en)
 
-## National Museum of Modern and Contemporary Art, Seoul
-One of Korea’s popular museums can be accessed from anywhere around the world. Google’s virtual tour takes you through six floors of Contemporary art from Korea and all over the globe. [Tour here.](https://artsandculture.google.com/partner/national-museum-of-modern-and-contemporary-art-korea?hl=en)
+## Piazza del Duomo, Pisa, Italy
+[Tour here.](https://artsandculture.google.com/streetview/piazza-del-duomo-pisa/dgGHkwqktuUWXw?hl=en&sv_lng=10.39652648588569&sv_lat=43.72235172664062&sv_h=333.12&sv_p=18.010000000000005&sv_pid=q1a-_kVvsz0Q_nznhgPGpQ&sv_z=1)
 
 ## Pompeii, Italy
 [Tour here.](https://artsandculture.google.com/streetview/pompeii/DQHczKZUoHnwiQ?hl=en)
 
-## Rijksmuseum, Amsterdam
-Explore the masterworks from the Dutch Golden Age, including works from Vermeer and Rembrandt. Google offers a Street View tour of this iconic museum, so you can feel as if you’re actually wandering its halls. [Tour here.](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en&sv_lng=4.885283712508563&sv_lat=52.35984312584405&sv_h=311.1699875145569&sv_p=-5.924133903625474&sv_pid=fOVcUXQW2wpRf33iUmxEfg&sv_z=1)
+## Rani Ki Vav - The Queen's Stepwell, New Delhi, India
+[Tour here.](https://artsandculture.google.com/streetview/rani-ki-vav-the-queen-s-stepwell/SwHoqaQRCBDCdw?hl=en&sv_lng=72.10189973772049&sv_lat=23.85891916904759&sv_h=260.8742499887913&sv_p=1.1420150471925012&sv_pid=mw-E3T4d8nEAAAQfCPVuUQ&sv_z=1)
 
 ## Santuario Historico de Macchu Picchu
 [Tour here.](https://artsandculture.google.com/streetview/santuario-historico-de-machu-picchu-casa-de-los-nobles/aQFExMrHgP-cnQ?hl=en&sv_lng=-72.5449748168174&sv_lat=-13.16402863344787&sv_h=31.918588232245124&sv_p=-8.547736183766347&sv_pid=7Teak5G7DlGXB9DTZSjEEQ&sv_z=0.09791375652692436)
+
+## Scott's Hut & The Explorers' Heritage of Antartica, Antartica
+[Look here.](https://artsandculture.google.com/streetview/scott’s-hut-and-the-explorers’-heritage-of-antarctica/-QHJG7iL5SEooQ?hl=en&sv_lng=166.1677535567861&sv_lat=-77.55300321269533&sv_h=175.89806982309605&sv_p=16.961623703223594&sv_pid=UK5uoZmZ2JZr031JLR_WSQ&sv_z=0.9962276583886238)
+
+## Statue of Liberty, USA
+[Look here.](https://artsandculture.google.com/streetview/statue-of-liberty/QwHgbIESI1SWgQ?hl=en)
 
 ## Stone Henge, Avebury UK
 [Tour here.](https://artsandculture.google.com/streetview/stonehenge-avebury/TwED7nyNxm_hxg?hl=en)
@@ -57,8 +69,11 @@ It's closed from today (March 2020). But you can still have a peek. [Tour here.]
 ## The National Gallery, London
 [Link here.](https://artsandculture.google.com/partner/the-national-gallery-london?hl=en)
 
-## Uffizi Gallery, Florence
-This less well-known gallery houses the art collection of one of Florence, Italy’s most famous families, the de'Medicis. The building was designed by Giorgio Vasari in 1560 specifically for Cosimo I de'Medici, but anyone can wander its halls from anywhere in the world. [Tour here.](https://artsandculture.google.com/partner/uffizi-gallery?hl=en)
+## The Sphinx
+[See here.](https://artsandculture.google.com/streetview/the-sphynx/cQH2tTNrcF1N8Q?hl=en&sv_lng=31.13857587246866&sv_lat=29.97561757923992&sv_h=348.39470707095285&sv_p=7.310374162214757&sv_pid=tcfQT8Ja6i7iAxcCtDKpLA&sv_z=1)
+
+## Tour Eiffiel, Paris
+[See here.](https://artsandculture.google.com/streetview/tour-eiffel/sAHt5Gv4YGH84Q?hl=en&sv_lng=2.294697006132574&sv_lat=48.85816565109427&sv_h=140.28322851810307&sv_p=-7.801107594773541&sv_pid=Pe03wIAND2EexK9lTcxm0w&sv_z=1)
 
 ## Van Gogh Museum, Amsterdam
 Anyone who is a fan of this tragic, ingenious painter can see his works up close (or, almost up close) by virtually visiting this museum – the largest collection of artworks by Vincent van Gogh, including over 200 paintings, 500 drawings, and over 750 personal letters. [Tour here.](https://artsandculture.google.com/partner/van-gogh-museum?hl=en)
