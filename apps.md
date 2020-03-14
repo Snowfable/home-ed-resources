@@ -21,7 +21,7 @@ Bring realistic, to-scale artefacts from History into your own home using cuttin
 Explore the surprising side of color with Color Uncovered, an interactive book that features fascinating illusions, articles, and videos developed by the Exploratorium. [Color here.](https://www.exploratorium.edu/explore/apps/color-uncovered)
 
 ## Dragonbox
-Interactive apps for children to learn digitally. [Link here.](https://dragonbox.com/?fbclid=IwAR1f1PQUQl1SkkmOLGZo6ql6tK3kreUg4V_ItuxCpfdC23BGrPZncTDdDpU)
+So beautifully visual that they won't even know it's maths! Try the chess app too. Dragonbox make some of the few paid apps worth the price tag. [Link here.](https://dragonbox.com/?fbclid=IwAR1f1PQUQl1SkkmOLGZo6ql6tK3kreUg4V_ItuxCpfdC23BGrPZncTDdDpU)
 
 ## Geoboard
 A tool for exploring a variety of mathematical topics introduced in the elementary and middle grades. Learners stretch bands around the pegs to form line segments and polygons and make discoveries about perimeter, area, angles, congruence, fractions, and more. [Link here.](https://www.mathlearningcenter.org/resources/apps/geoboard?fbclid=IwAR0vJSW7Q2j9rNWlt1Bjcb8AbqZhVnHpKdDbtYlEgxL1m3Q0xbZGFvfQ6BI)
@@ -53,8 +53,8 @@ An offbeat experience of color and sound that invites you to create ricochets, b
 ## Sound Uncovered
 Explore the surprising side of sound with Sound Uncovered, an interactive book featuring auditory illusions, acoustic phenomena, and other things that go bump, beep, boom, and vroom. [Boom here.](https://www.exploratorium.edu/explore/apps/sound-uncovered)
 
-## Space Now is an educational application that targets all space enthusiasts.
-Using the application you can access a gallery of images, glossary and information about space, news about Hubble, ESA, NASA but also the list of rocket launches.Space Now - Rocket Launches, Images, News. [Link here.](https://play.google.com/store/apps/details?id=space.pal.sig)
+## Space Now
+Space Now is an educational application that targets all space enthusiasts. Using the application you can access a gallery of images, glossary and information about space, news about Hubble, ESA, NASA but also the list of rocket launches. [Link here.](https://play.google.com/store/apps/details?id=space.pal.sig)
 
 ## Spacecraft AR
 Created by NASA’s Jet Propulsion Laboratory, this stunning educational app uses native mobile augmented reality to bring spacecraft explorers from across the solar system to whatever space you’re in. [Explore here.](https://play.google.com/store/apps/details?id=gov.nasa.jpl.spacecraftAR)
