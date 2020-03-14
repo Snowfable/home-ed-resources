@@ -105,5 +105,4 @@ All kinds of making. [Make here.](https://www.tinkercad.com)
 ## Toy Theater
 Educational online games. [Play here.](https://toytheater.com/)
 
-## Virtual Museum Tour
-How about a virtual museum tour? https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?utm_source=facebook.com&utm_medium=social&utm_campaign=social-share-article&utm_content=20200313
+{% include_relative footer.md %}
