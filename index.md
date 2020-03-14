@@ -63,6 +63,9 @@ Digital enterprise award scheme you can complete online. [Investigate here.](htt
 ## Khan Academy
 Especially good for maths and computing for all ages but other subjects at Secondary level. Note this uses the U.S. grade system but it's mostly common material. [Learn here.](https://www.khanacademy.org)
 
+## Languages (BBC)
+No longer being updated but the information is still here. Around 33 languages from French, Spanish, German to Finnish, urdu and Serbian. [Learn here.](http://www.bbc.co.uk/languages/)
+
 ## Mystery Science
 Free science lessons. [Investigate here.](https://mysteryscience.com)
 
