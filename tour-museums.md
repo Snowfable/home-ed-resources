@@ -8,7 +8,7 @@ description: Tour museums a world away
 ## 12 Museums - Virtual Tours
 
 British Museum - London
-This iconic museum located in the heart of London allows virtual visitors to tour the Great Court and discover the ancient Rosetta Stone and Egyptian mummies. You can also find hundreds of artifacts on the museum’s virtual tour.
+This iconic museum located in the heart of London allows virtual visitors to tour the Great Court and discover the ancient Rosetta Stone and Egyptian mummies. You can also find hundreds of artifacts on the museum’s virtual tour. [Tour here.](https://britishmuseum.withgoogle.com)
 
 Guggenheim Museum, New York
 Google’s Street View feature lets visitors tour the Guggenheim’s famous spiral staircase without ever leaving home. From there, you can discover incredible works of art from the Impressionist, Post-Impressionist, Modern and Contemporary eras.
@@ -44,3 +44,5 @@ This less well-known gallery houses the art collection of one of Florence, Italy
 
 Van Gogh Museum, Amsterdam
 Anyone who is a fan of this tragic, ingenious painter can see his works up close (or, almost up close) by virtually visiting this museum – the largest collection of artworks by Vincent van Gogh, including over 200 paintings, 500 drawings, and over 750 personal letters.
+
+#### Original posting on Travel & Leisure: https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours?utm_source=facebook.com&utm_medium=social&utm_campaign=social-share-article&utm_content=20200313
