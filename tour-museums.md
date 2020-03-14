@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Virtual Meetups
-description: I need lols
+title: Virtual Museum Tours
+description: Tour museums a world away
 ---
 
 
