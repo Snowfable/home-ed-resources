@@ -12,7 +12,7 @@ description: Tour museums a world away
 This iconic museum located in the heart of London allows virtual visitors to tour the Great Court and discover the ancient Rosetta Stone and Egyptian mummies. You can also find hundreds of artifacts on the museum’s virtual tour. [Tour here.](https://britishmuseum.withgoogle.com)
 
 ## Guggenheim Museum, New York
-Google’s Street View feature lets visitors tour the Guggenheim’s famous spiral staircase without ever leaving home. From there, you can discover incredible works of art from the Impressionist, Post-Impressionist, Modern and Contemporary eras.
+Google’s Street View feature lets visitors tour the Guggenheim’s famous spiral staircase without ever leaving home. From there, you can discover incredible works of art from the Impressionist, Post-Impressionist, Modern and Contemporary eras. [Tour here.](https://artsandculture.google.com/streetview/solomon-r-guggenheim-museum-interior-streetview/jAHfbv3JGM2KaQ?hl=en&sv_lng=-73.95902634325634&sv_lat=40.78285751667664&sv_h=30.75703204567916&sv_p=0.06928383072430222&sv_pid=MfnUmHRyOSzMtY3vtYU05g&sv_z=0.9645743015259163)
 
 ## MASP, São Paulo
 The Museu de Arte de São Paulo is a non-profit and Brazil’s first modern museum. Artworks placed on clear perspex frames make it seem like the artwork is hovering in midair. Take a virtual tour to experience the wondrous display for yourself.
