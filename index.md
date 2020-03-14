@@ -11,6 +11,10 @@ A non-exhaustive list that might help those affected by school closures due to c
 ## Academic Earth
 Free online college courses from the world’s top universities. [Learn here.](https://academicearth.org)
 
+## Adventures in Chemistry
+From the American Chemical Society, adventures in chemistry is a way for children to access more chemistry related learning.<br>[Website here.](https://www.acs.org/content/acs/en/education/whatischemistry/adventures-in-chemistry.html)
+<br>[More resources here](https://www.acs.org/content/acs/en/education/resources/k-8.html)
+
 ## BBC Learning
 This site is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer. [Access here.](http://www.bbc.co.uk/learning/coursesearch/) 
 
@@ -139,6 +143,9 @@ Lots of free reading resources for Primary age. [Read here.](https://www.oxfordo
 
 ## Paw Print Badges
 Free challenge packs and other downloads. Many activities can be completed indoors. Badges cost but are optional. [Challenge here.](https://www.pawprintbadges.co.uk)
+
+## PhET Interative Simulations
+Simulations covering general chemistry and quantum chemistry. From the University of Colorado Boulder. [Link here.](https://phet.colorado.edu/en/simulations/category/chemistry)
 
 ## Prodigy Maths
 Is in U.S. grades, but good for UK Primary age. [Calculate here.](https://www.prodigygame.com)
