@@ -63,7 +63,7 @@ For those who have interest in the game. [Play here.](https://www.englishchess.o
 Offers hundreds of games, books, comics, and videos that develop skills in math, reading, problem-solving and literacy. American system of grades Pre-K through 8. [Play here.](https://www.funbrain.com)
 
 ## Futurelearn
-Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 14+ but younger learners can use a parent account). [Link here.](https://www.futurelearn.com)
+Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 13+ but younger learners can use a parent account). [Link here.](https://www.futurelearn.com)
 
 ## Geography Games
 [Link here.](https://world-geography-games.com/world.html)
