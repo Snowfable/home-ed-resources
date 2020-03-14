@@ -68,6 +68,9 @@ Free to access 100s of courses, only pay to upgrade if you need a certificate in
 ## Geography Games
 [Link here.](https://world-geography-games.com/world.html)
 
+## History of Maths
+Follow the long journey from antiquity, from the time of ancient Greek and Arab philosophers. Join us as we trace the spectacular evolution of mathematics through the centuries.[Link here.](https://www.superprof.co.uk/blog/learn-maths-history/?fbclid=IwAR2BAntfMaOPquMRz32KA3Jkio07ibLKEMh60z6ML0N8GFzOf1Ioju_3Z_8)
+
 ## Hour of Code
 Teaching how to code with a variety of themed games. [Code here.](https://code.org/learn)
 <br>Check out their Minecraft Hour of Code Tutorials. [Code here.](https://code.org/minecraft)
