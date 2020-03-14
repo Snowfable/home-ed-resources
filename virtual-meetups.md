@@ -4,18 +4,18 @@ title: Virtual Meetups
 description: I need lols
 ---
 
+[General Resources](./index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Virtual Meetups](./virtual-meetups.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apps](./apps.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tour Museums](./tour-museums.html)
 
-[General Resources](./index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Virtual Meetups](./virtual-meetups.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apps](./apps.html)
+# Virtual Meetups
+Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online. Feel free to share!
 
-Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online.
-Feel free to share!
 
 ## Lichess 
-
 Got a chess player? Got a friend who's a chess player? They can play online for free here. Just start a game and share the link with a friend to join. Games come with a private text chat facility alongside the board. [Play chess here.](https://lichess.org)
 
-## Minecraft
 
+## Minecraft
+Popular building and exploration game. If both of you are on the Java version for PC/Mac/, or both of you are on Pocket Edition, one of you can set up a Realm and others on the same edition you send an invite to can join you in your virtual world. Why not set each other challenges, collaborate on a big build or play a minigame? PEG 7+
 Java version
 
 https://www.minecraft.net/en-us/get-minecraft
@@ -23,7 +23,7 @@ https://www.minecraft.net/en-us/get-minecraft
 Pocket Edition
  https://www.minecraft.net/en-us/
 
-Popular building and exploration game. If both of you are on the Java version for PC or Mac, or both of you are on Pocket Edition, one of you can set up a Realm and others on the same edition you send an invite to can join you in your virtual world. Why not set each other challenges, collaborate on a big build or play a minigame? PEG 7+
+
 
 ## Outschool
 
