@@ -78,6 +78,9 @@ Teaching how to code with a variety of themed games. [Code here.](https://code.o
 ## iDEA Awards
 Digital enterprise award scheme you can complete online. [Investigate here.](https://idea.org.uk)
 
+## Jakub Marian
+Czech linguist, data scientist, graphic designer, and musician who creates educational materials for students. Has produced more than 700+ articles and 7 books on variety of subjects. [Look here.](https://jakubmarian.com)
+
 ## Khan Academy
 Especially good for maths and computing for all ages but other subjects at Secondary level. Note this uses the U.S. grade system but it's mostly common material. [Learn here.](https://www.khanacademy.org)
 
