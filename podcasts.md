@@ -14,6 +14,9 @@ Subjecs on population, environment, gender and more. [Listen here.](http://www.b
 ## Book Power for Kids 
 [Listen here.](https://podcasts.apple.com/us/podcast/book-power-for-kids/id1141688159?fbclid=IwAR0vJSW7Q2j9rNWlt1Bjcb8AbqZhVnHpKdDbtYlEgxL1m3Q0xbZGFvfQ6BI)
 
+## Cbeebies Radio Podcast
+CBeebies takes you to a world of sound and music, where you can share imaginative adventures and listen to stories with your favourite CBeebies friends and characters. Updated daily. [Listen here.](https://www.bbc.co.uk/programmes/p02pnn9d/episodes/downloads?fbclid=IwAR0Of_bsjOl5Ez7S4okT-3mvze8YEYFiEUXTtMYUKxPmzcyfLvIi0hvIGGc)
+
 ## City, University of London Podcasts
 Mix of podcasts to listen to from pyschology, macroeconomics, multiculturism and so on. [Listen here](https://chartable.com/creators/city-university-of-london)
 
