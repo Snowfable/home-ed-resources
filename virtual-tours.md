@@ -6,16 +6,14 @@ title: Virtual Tours around the World
 {% include_relative nav.md %}
 
 # Thousands of Virtual Tours
-From Temples to art museums and heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. [Tour Museums](https://artsandculture.google.com/search/streetview?hl=en) [Read about how they do it.](https://artsandculture.google.com/project/openheritage)
+From Temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. [Tour Museums](https://artsandculture.google.com/search/streetview?hl=en) [Read about how they do it.](https://artsandculture.google.com/project/openheritage)
+Below is a short list of the thousand available. 
 
 ## Ancient Nara: Yakushi-ji Temple
 [Tour here.](https://artsandculture.google.com/streetview/ancient-nara-yakushi-ji-temple/MgGege7HM9Ja8w?hl=en&sv_lng=135.7844693898109&sv_lat=34.66823987034128&sv_h=115.59&sv_p=17.36&sv_pid=fk3GiyGT4LtRsiwlVZ89sg&sv_z=1)
 
 ## British Museum - London
 This iconic museum located in the heart of London allows virtual visitors to tour the Great Court and discover the ancient Rosetta Stone and Egyptian mummies. You can also find hundreds of artifacts on the museum’s virtual tour. [Tour here.](https://britishmuseum.withgoogle.com)
-
-## Cabinet Room, London, UK
-[Peek here.](https://artsandculture.google.com/streetview/cabinet-room-10-downing-street/MAGKMQpcfU8UKA?hl=en)
 
 ## Great Barrier Reef
 [Tour here.](https://artsandculture.google.com/streetview/great-barrier-reef/zgGFG_Mu3kqWEw?hl=en&sv_lng=152.7169205864063&sv_lat=-24.11509362375578&sv_h=206&sv_p=14&sv_pid=CAoSLEFGMVFpcE15cXoxTFBOdWVkeEVLakVad2VqQU4zTHl6bGpWZjc4QV9SY1Fw&sv_z=1)
@@ -28,9 +26,6 @@ Google’s Street View feature lets visitors tour the Guggenheim’s famous spir
 
 ## Musée d’Orsay, Paris
 You can virtually walk through this popular gallery that houses dozens of famous works from French artists who worked and lived between 1848 and 1914. Get a peek at artworks from Monet, Cézanne, and Gauguin, among others. [Tour here.](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
-
-## National Gallery of Art, Washington, D.C.
-This famous American art museum features two online exhibits through Google. The first is an exhibit of American fashion from 1740 to 1895, including many renderings of clothes from the colonial and Revolutionary eras. The second is a collection of works from Dutch Baroque painter Johannes Vermeer. [Tour here.](https://artsandculture.google.com/partner/national-gallery-of-art-washington-dc?hl=en)
 
 ## National Museum of Anthropology, Mexico City
 Built in 1964, this museum is dedicated to the archaeology and history of Mexico’s pre-Hispanic heritage. There are 23 exhibit rooms filled with ancient artifacts, including some from the Mayan civilization. [Tour here.](https://artsandculture.google.com/asset/the-national-museum-of-anthropology-mexico-city-ziko-van-dijk-wikimedia-commons/bAGSHRdlzSRcdQ?hl=en)
@@ -67,9 +62,6 @@ It's closed from today (March 2020). But you can still have a peek. [Tour here.]
 
 ## The National Gallery, London
 [Link here.](https://artsandculture.google.com/partner/the-national-gallery-london?hl=en)
-
-## The Sphinx
-[See here.](https://artsandculture.google.com/streetview/the-sphynx/cQH2tTNrcF1N8Q?hl=en&sv_lng=31.13857587246866&sv_lat=29.97561757923992&sv_h=348.39470707095285&sv_p=7.310374162214757&sv_pid=tcfQT8Ja6i7iAxcCtDKpLA&sv_z=1)
 
 ## Tour Eiffiel, Paris
 [See here.](https://artsandculture.google.com/streetview/tour-eiffel/sAHt5Gv4YGH84Q?hl=en&sv_lng=2.294697006132574&sv_lat=48.85816565109427&sv_h=140.28322851810307&sv_p=-7.801107594773541&sv_pid=Pe03wIAND2EexK9lTcxm0w&sv_z=1)
