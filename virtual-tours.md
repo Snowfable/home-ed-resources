@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include nav.md %}
+{% include nav.html %}
 
 # Virtual Tours
 From temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. 

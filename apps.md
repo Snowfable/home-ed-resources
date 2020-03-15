@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include nav.md %}
+{% include nav.html %}
 
 # Apps
 Here is a list of mostly free educational apps. Some are available on either Android or iOS and some are available on both.
