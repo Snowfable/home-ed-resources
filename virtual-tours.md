@@ -1,6 +1,6 @@
 ---
 layout: default
-title:The Education Hub
+title: The Education Hub
 description: sharing resources for all children at home
 ---
 
