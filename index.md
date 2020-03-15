@@ -18,6 +18,9 @@ From the American Chemical Society, adventures in chemistry is a way for childre
 ## Art Contests for Kids
 Contests can be a way to help build confidence. [Challenge here.](https://www.samanthasbell.com/art-contests-for-kids/)
 
+## Baldwin's Library of Historical Children's Literature
+Online collection of children's books from by gone eras. [Read here.](https://ufdc.ufl.edu/baldwin/all/thumbs)
+
 ## BBC Learning
 This site is old and no longer updated and yet there's so much still available. Around 33 languages from French, Spanish, German to Finnish, urdu and Serbian. BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer.
 <br>[Main site here.](http://www.bbc.co.uk/learning/coursesearch/) 
@@ -124,6 +127,9 @@ Digital enterprise award scheme you can complete online. [Investigate here.](htt
 
 ## Instructables: Engineering STEM Projects
 Easy and fun collection of STEM projects and lessons for elementary and middle school. Made for teachers, science fairs, and weekend activities. [Make here.](https://www.instructables.com/id/Project-Based-Engineering-for-Kids/)
+
+## International Children's Digital Library
+A collection of books that represents outstanding historical and contemporary books from throughout the world. [Read here.](http://en.childrenslibrary.org/index.shtml)
 
 ## Jakub Marian
 Czech linguist, data scientist, graphic designer, and musician who creates educational materials for students. Has produced more than 700+ articles and 7 books on variety of subjects. [Look here.](https://jakubmarian.com)
