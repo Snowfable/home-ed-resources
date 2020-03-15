@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Crafts
+title: The Education Hub
+description: sharing resources for all children at home
 ---
 
 {% include_relative nav.md %}
+
+# Crafts
+
 
 ## How to make a Bug Box
 Encourage ladybirds, lacewings and spiders into your garden by creating a bug box. [Make it.](https://www.gardenersworld.com/how-to/diy/how-to-make-a-bug-box/)
