@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-github:
-  is_project_page: false
-show_downloads: false
+title: The Education Hub
+description: sharing resources for all children at home
 url: https://theeducationhub.github.io
