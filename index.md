@@ -21,7 +21,10 @@ From the American Chemical Society, adventures in chemistry is a way for childre
 Contests can be a way to help build confidence. [Challenge here.](https://www.samanthasbell.com/art-contests-for-kids/)
 
 ## BBC Learning
-This site is old and no longer updated and yet there's so much still available, from language learning to BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer. [Access here.](http://www.bbc.co.uk/learning/coursesearch/) 
+This site is old and no longer updated and yet there's so much still available. Around 33 languages from French, Spanish, German to Finnish, urdu and Serbian. BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer.
+<br>[Main site here.](http://www.bbc.co.uk/learning/coursesearch/) 
+<br>[Languages here.](http://www.bbc.co.uk/languages/)
+<br>[Bitesize here.](https://www.bbc.com/bitesize/learn)
 
 ## Big History Project
 Aimed at Secondary age. Multi disciplinary activities. [Link here.](https://www.bighistoryproject.com/home)
@@ -127,9 +130,6 @@ Czech linguist, data scientist, graphic designer, and musician who creates educa
 ## Khan Academy
 Especially good for maths and computing for all ages but other subjects at Secondary level. Note this uses the U.S. grade system but it's mostly common material. [Learn here.](https://www.khanacademy.org)
 
-## Languages (BBC)
-No longer being updated but the information is still here. Around 33 languages from French, Spanish, German to Finnish, urdu and Serbian. [Learn here.](http://www.bbc.co.uk/languages/)
-
 ## MinuteEarth
 A Youtube Channel all about science and stories about the planet. [Watch here.](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w)
 
@@ -166,8 +166,9 @@ Archive of educational resources and lectures from universities. [Link here.](ht
 ## Openlearn
 Free taster courses aimed at those considering Open University but everyone can access it. Adult level, but some e.g. nature and environment courses could well be of interest to young people. [Link here.](https://www.open.edu/openlearn/)
 
-## OpenLearn Free Prints
-Download or order posters and booklets from your favourite OU/BBC programmes. [Link here.](https://www.open.edu/openlearn/tv-radio-events/order-your-free-print-items)
+## OpenLearn Media
+Guide to TV and radio programmes co-produced by The OU and the BBC. [Check here.](https://www.open.edu/openlearn/whats-on/ou-on-the-bbc-week)
+<br>Download or order posters and booklets from your favourite OU/BBC programmes. [Link here.](https://www.open.edu/openlearn/tv-radio-events/order-your-free-print-items)
 
 ## Oxford Owl for Home
 Lots of free reading resources for Primary age. [Read here.](https://www.oxfordowl.co.uk/for-home/)
