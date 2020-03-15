@@ -253,6 +253,9 @@ Wide range of cool educational videos. [See this.](https://thekidshouldseethis.c
 ## The Nobel Prize
 Official website of the Nobel Prize. [Link here.](https://www.nobelprize.org)
 
+## The Royal Society Publishing
+Searching for journals? [Search here.](https://royalsocietypublishing.org/search/advanced)
+
 ## The Virtual Fossil Museum
 Fossils across geological time presented in multiple contexts of geological history, the tree of life, paleobiology and evolution. The Virtual Fossil Museum is an educational resource providing an ever-growing extensive collection of fossil images. [Excavate here.](http://www.fossilmuseum.net)
 
