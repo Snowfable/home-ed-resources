@@ -7,7 +7,7 @@ description: sharing resources for all children at home
 {% include_relative nav.md %}
 
 # Online Meetups
-Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online. Feel free to share!
+Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online. 
 
 
 ## Lichess 
