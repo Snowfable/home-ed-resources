@@ -1,6 +1,7 @@
 ---
 layout: default
-title: General Resources
+title: The Education Hub
+description: sharing resources for all children at home
 ---
 
 {% include_relative nav.md %}
