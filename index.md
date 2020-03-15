@@ -4,8 +4,8 @@ layout: default
 
 {% include nav.html %}
 
-# Online Resources 
-A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
+# Online Resources
+A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators.
 <br>
 
 ## Academic Earth
@@ -23,7 +23,7 @@ Online collection of children's books from by gone eras. [Read here.](https://uf
 
 ## BBC Learning
 This site is old and no longer updated and yet there's so much still available. Around 33 languages from French, Spanish, German to Finnish, urdu and Serbian. BBC Bitesize for revision. No TV licence required except for content on BBC iPlayer.
-<br>[Main site here.](http://www.bbc.co.uk/learning/coursesearch/) 
+<br>[Main site here.](http://www.bbc.co.uk/learning/coursesearch/)
 <br>[Languages here.](http://www.bbc.co.uk/languages/)
 <br>[Bitesize here.](https://www.bbc.com/bitesize/learn)
 
@@ -58,7 +58,7 @@ Compound Interest is a site that aims to take a closer look at the chemical comp
 Online maths games for young children. American based. [Link here.](https://www.coolmath4kids.com)
 
 ## Crash Course
-You Tube videos on many subjects: biology, physics, economics, astronomy, world history, literature, philosophy to name a few. 
+You Tube videos on many subjects: biology, physics, economics, astronomy, world history, literature, philosophy to name a few.
 <br>[Watch here.](https://www.youtube.com/user/crashcourse/playlists)
 <br>[Main website here.](https://thecrashcourse.com)
 
@@ -90,7 +90,7 @@ Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 University course on special relativity, general relativity and quantum theory. Run at University of Pittsburgh by John D. Norton and Gal Ben Porath. [Link here.](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 
 ## English Chess Federation
-A one-stop resource for chess players, chess organisers and interested parties alike. Join membership, find a club and you can event attempt the Certificate of Excellence award scheme. 
+A one-stop resource for chess players, chess organisers and interested parties alike. Join membership, find a club and you can event attempt the Certificate of Excellence award scheme.
 <br>[Play here.](https://www.englishchess.org.uk)
 <br>[Certificate of Excellence.](https://www.englishchess.org.uk/certificate-of-excellence/)
 
@@ -148,6 +148,9 @@ Free science lessons. [Investigate here.](https://mysteryscience.com)
 
 ## NaNoWriMo
 A nonprofit organization that provides tools, structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds — on and off the page.[Write here.](https://nanowrimo.org)
+
+## NASA Stem Engagement
+Stem resources for educators. [Link here.](https://www.nasa.gov/stem/foreducators/k-12/index.html)
 
 ## National Geographic Kids
 Activities and quizzes for younger kids. [Link here.](https://www.natgeokids.com/uk/)
@@ -243,6 +246,9 @@ Good, free art activities linked to from this Facebook page. [Craft here.](https
 ## The Homeschool Scientist
 Find experiment ideas, curriculum choices, science resources, expert advice and more! [Experiment here.](https://thehomeschoolscientist.com/category/experiments/)
 
+## The Paleontology Portal
+A US resource for anyone interested in paleontology, from the professional in the lab to the interested amateur scouting for fossils to the student in any classroom. [Dig here.](http://paleoportal.org/index.php)
+
 ## Theatre Folk Resources
 From monologues, two person scenes, playwriting to group scenes, directing and playwriting. [Act here.](https://www.theatrefolk.com/free-resources)
 
@@ -262,6 +268,11 @@ Wide range of cool educational videos. [See this.](https://thekidshouldseethis.c
 ## The Nobel Prize
 Official website of the Nobel Prize. [Link here.](https://www.nobelprize.org)
 
+## The Royal Institution
+Involve with science, mathematics and engineering, and keep up with the Christmas lectures.
+<br>[Family site.](https://www.rigb.org/families)
+<br>[Christmas lectures](https://www.rigb.org/christmas-lectures/watch)
+
 ## The Royal Society Publishing
 Searching for journals? [Search here.](https://royalsocietypublishing.org/search/advanced)
 
@@ -273,6 +284,9 @@ All kinds of making. [Make here.](https://www.tinkercad.com)
 
 ## Toy Theater
 Educational online games. [Play here.](https://toytheater.com/)
+
+## Understanding Evolution
+A non-commercial, education website, teaching the science and history of evolutionary biology. Teaching what evolution is, how it works, how it factors into your life, how research in evolutionary biology is performed, and how ideas in this area have changed over time. [Evolve here.](https://evolution.berkeley.edu/evolibrary/home.php)
 
 ## Video Interviews with Top Children's Authors and Illustrators
 Watch Reading Rockets' exclusive video interviews with top children's book authors and illustrators. [Watch here.](https://www.readingrockets.org/books/interviews)
@@ -290,7 +304,7 @@ Open content textbook collection. [Read here.](https://en.wikibooks.org/wiki/Mai
 Wikimedia Foundation project devoted to learning resources, learning projects, and research for use in all levels, types, and styles of education from pre-school to university, including professional training and informal learning. [Link here.](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 
 ## WolframAlpha
-From maths, science & technology, society & culture to everyday life, this is a unique and fun engine to peruse. 
+From maths, science & technology, society & culture to everyday life, this is a unique and fun engine to peruse.
 <br>[Main website.](https://www.wolframalpha.com)
 <br>[Famous Math Problems.](https://www.wolframalpha.com/examples/mathematics/famous-math-problems/)
 
@@ -306,7 +320,7 @@ A non-profit organisation founded to preserve cultural heritage worldwide. [Disc
 ## Writers Speak to Kids
 In this NBC Learn special collection, children‘s book authors share their writing experiences to help students learn more about the craft and techniques of creative writing. [Watch now.](https://www.nbclearn.com/writers-speak-to-kids)
 
-## Writing Contests for Kids 
+## Writing Contests for Kids
 This round-up of writing contests for kids and opportunities might just help give young writers their first chance at publication. [Write here.](https://imaginationsoup.net/writing-contests-kids-ways-get-published/)
 
 ## Zooniverse
