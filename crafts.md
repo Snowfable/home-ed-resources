@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include_relative nav.md %}
+{% include nav.md %}
 
 # Crafts
 
@@ -28,4 +28,4 @@ An online application for creating and sharing digital paper toys. [Create here.
 ## Pixel Papercraft
 A site where people upload their papercraft creations so that you can build one too. Much of it Minecraft related. [Link here.](http://www.pixelpapercraft.com)
 
-{% include_relative footer.md %}
+{% include footer.md %}

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include_relative nav.md %}
+{% include nav.md %}
 
 # Online Resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
@@ -294,4 +294,4 @@ This round-up of writing contests for kids and opportunities might just help giv
 ## Zooniverse
 People powered communal projects. [Join here.](https://www.zooniverse.org)
 
-{% include_relative footer.md %}
+{% include footer.md %}

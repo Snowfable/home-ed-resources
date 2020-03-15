@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include_relative nav.md %}
+{% include nav.md %}
 
 # Virtual Tours
 From temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. 
@@ -72,4 +72,4 @@ A global cultural icon. [See here.](https://artsandculture.google.com/streetview
 ## Van Gogh Museum, Amsterdam
 The largest collection of artworks by Vincent van Gogh. [Tour here.](https://artsandculture.google.com/partner/van-gogh-museum?hl=en)
 
-{% include_relative footer.md %}
+{% include footer.md %}

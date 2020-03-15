@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include_relative nav.md %}
+{% include nav.md %}
 
 # Online Meetups
 Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online. 
@@ -27,4 +27,4 @@ Live, online classes taught by experts who are enthusiastic and creative. Classe
 ## Zoom
 Designed for video conferencing, this online platform is free for 40 minute sessions and has video, text chat, screen sharing and interactive whiteboard. Sign up, then generate a link and share it with only those you want to meet with online (they must also have signed up). You can screenshare videos and discuss favourite things. Maybe kids can run their own book group or film discussion class? Or if you know a tutor who is at home, they could teach yours and friends, e.g. Spanish. There is a slight delay, which does unfortunately make any kind of music performance over Zoom a challenge, however it's good for most things. [Link here.](https://zoom.us)
 
-{% include_relative footer.md %}
+{% include footer.md %}

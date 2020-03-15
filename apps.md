@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include_relative nav.md %}
+{% include nav.md %}
 
 # Apps
 Here is a list of mostly free educational apps. Some are available on either Android or iOS and some are available on both.
@@ -76,4 +76,4 @@ This app allows you to view three simultaneous video streams: 1) LIVE coverage h
 ## WWF Free Rivers
 WWF Free Rivers puts an entire landscape in your hands. Through this immersive, augmented reality experience, you’ll discover a river that flows through the lives of people and wildlife, and how their homes depend on those flows. [Link here.](https://www.worldwildlife.org/pages/explore-wwf-free-rivers-a-new-augmented-reality-app?fbclid=IwAR2vPVtawpW9PlC2tRh5TlTPv12F7cCcbl_E3rAdYWjpE-u3Vig4pVKuagg)
 
-{% include_relative footer.md %}
+{% include footer.md %}
