@@ -171,6 +171,9 @@ Download or order posters and booklets from your favourite OU/BBC programmes. [L
 ## Oxford Owl for Home
 Lots of free reading resources for Primary age. [Read here.](https://www.oxfordowl.co.uk/for-home/)
 
+## Papersnake
+Papersnake is easy and free access to download a variety of paper: isometric, graph, logarithmic, manuscript, dot, square and more. [Print here.](https://www.papersnake.com)
+
 ## Paw Print Badges
 Free challenge packs and other downloads. Many activities can be completed indoors. Badges cost but are optional. [Challenge here.](https://www.pawprintbadges.co.uk)
 
