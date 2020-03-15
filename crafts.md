@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include nav.md %}
+{% include nav.html %}
 
 # Crafts
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include nav.md %}
+{% include nav.html %}
 
 # Podcasts
 Podcasts are a great way of accessing various topics. Many universities and other establishments offer podcasts as a way for people to keep up with new discoveries and latest research.

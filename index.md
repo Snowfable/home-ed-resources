@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include nav.md %}
+{% include nav.html %}
 
 # Online Resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
