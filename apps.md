@@ -16,7 +16,7 @@ Interactive challenges to help develop your music aural skills (listening skills
 Celebrate the 50th anniversary of the Moon Landing with an immersive AR app that places you right in the action of NASA’s daring space missions of the 1960s. The perfect companion to Smithsonian Channel’s landmark six-part series, the “Apollo’s Moon Shot AR” app gives you an out-of-this-world close-up of some of the landmark events that defined the start of the Space Age. [Land here.](https://apps.apple.com/pl/app/apollos-moon-shot-ar/id1465827204?fbclid=IwAR2tBhAigRNLKMR6vJt0PGucqSzc-gqpWbpzlgQ8v_gcodKXm9m8o5IckeQ)
 
 ## Bebras A Perfect Day
-Bebras challenges are enjoyed by over 1.6 million students in 50 countries around the world. Enjoy a gentle stroll through Bebravia's glorious countryside while solving 100 computational thinking challenges! [iOS link here.](https://apps.apple.com/gb/app/bebras-a-perfect-day/id1280953498)
+Bebras challenges are enjoyed by over 1.6 million students in 50 countries around the world. Enjoy a gentle stroll through Bebravia's glorious countryside while solving 100 computational thinking challenges! [Play here.](https://apps.apple.com/gb/app/bebras-a-perfect-day/id1280953498)
 
 ## Chop Chop Cooking Club
 Learn essential recipes every kid should master, including step-by-step instructions, videos and more. Earn badges for completing each recipe. [Cook here.](http://chopchopcookingclub.org/?fbclid=IwAR3iaCAMDFKTP889Ihg3iHm0gmt6AHifmDNc22CA_3NNPWOjDW2MWcZN7pY)
