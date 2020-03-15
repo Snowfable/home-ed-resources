@@ -294,6 +294,9 @@ From maths, science & technology, society & culture to everyday life, this is a 
 <br>[Main website.](https://www.wolframalpha.com)
 <br>[Famous Math Problems.](https://www.wolframalpha.com/examples/mathematics/famous-math-problems/)
 
+## World Atlas
+This site aims to provide informative content surrounding the realm of geography that is both factually accurate and enjoyable to read. [Explore here.](https://www.worldatlas.com)
+
 ## World Geography Games
 World Geography Games offers you challenging and entertaining quiz games to improve your geographical knowledge. [Link here.](https://world-geography-games.com/world.html)
 
