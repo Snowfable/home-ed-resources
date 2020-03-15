@@ -7,7 +7,7 @@ description: sharing resources for all children at home
 {% include_relative nav.md %}
 
 # Apps
-Here is a list of free educational apps. Some are available on either Android or iOS and some are available on both. They are mostly free.
+Here is a list of mostly free educational apps. Some are available on either Android or iOS and some are available on both.
 
 ## ABRSM Aural Trainer Grades 1-5 
 Interactive challenges to help develop your music aural skills (listening skills). Anyone can use it, but it is designed around ABRSM’s aural tests for Grades 1 to 5. [Train here.](https://gb.abrsm.org/en/exam-support/apps-and-practice-tools/aural-trainer/?fbclid=IwAR2ApGM9Sv90cqbR-nLHwknKuqvExGPJqXudCOdpZrht0sPnZ_b7BXuCnsU)
