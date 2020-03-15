@@ -1,0 +1,30 @@
+version: 2.1
+
+executors:
+  ruby26:
+    docker:
+      - image: circleci/ruby:2.6.0
+    environment:
+      BUNDLE_PATH: vendor/bundle
+
+jobs:
+  build:
+    executor: ruby26
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - bundle-v1-{{ checksum "Gemfile.lock" }}
+            - bundle-v1-
+      - run: 
+          name: Bundle install
+          command: bundle check --path vendor/bundle || bundle install --deployment
+      - save_cache:
+          key: bundle-v1-{{ checksum "Gemfile.lock" }}
+          paths: [vendor/bundle]
+      - run: bundle exec jekyll build
+      - store_artifacts:
+          path: _site/
+          destination: .
+      - run: bundle exec jekyll doctor
+    
