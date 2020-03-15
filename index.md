@@ -231,6 +231,9 @@ Writing by teens for teens. [Read here.](https://www.teenink.com)
 ## The Artful Parent
 Good, free art activities linked to from this Facebook page. [Craft here.](https://www.facebook.com/artfulparent/)
 
+## The Homeschool Scientist
+Find experiment ideas, curriculum choices, science resources, expert advice and more! [Experiment here.](https://thehomeschoolscientist.com/category/experiments/)
+
 ## Theatre Folk Resources
 From monologues, two person scenes, playwriting to group scenes, directing and playwriting. [Act here.](https://www.theatrefolk.com/free-resources)
 
