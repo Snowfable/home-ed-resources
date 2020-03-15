@@ -15,7 +15,8 @@ Got a chess player? Got a friend who's a chess player? They can play online for 
 
 ## Minecraft
 Popular building and exploration game. If both of you are on compatible versions of Minecraft (Java/pocket edition) one of you can set up a Realm and others can join in the virtual realm world to play. Why not set each other challenges, collaborate on a big build or play a minigame? PEG 7+. Please note that Legacy Console versions do not have the ability to cross play. 
-<br>[Click here](https://www.minecraft.net/en-us/get-minecraft#) to see which versions are available and if you click on *compare platforms and features* an extensive drop down menu will show you which versions are compatible. 
+<br>
+<br>[Click here](https://www.minecraft.net/en-us/get-minecraft#) to see which versions are available and if you click on **compare platforms and features** an extensive drop down menu will show you which versions are compatible. 
 
 ## Outschool
 Live online classes for kids, many on fun topics (always plenty for Pokémon and Harry Potter fans), as well as academic subjects, all led by experienced online tutors. You could arrange with a friend to be in the same one-time or recurring class, which generally includes relevant discussion. Parents: classes are reasonably priced and there is a referral sceme where you can get credit for future lessons when your referees take their first class. Outschool are also offering free classes for US children affected by school closures - 2nd link above - non US will need to check if you're eligible - these might also be at unsuitable times, due to time differences, but older kids might like an evening class?
