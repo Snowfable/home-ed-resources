@@ -27,8 +27,8 @@ See the Guggenheim’s famous spiral staircase. Follow the works of art from the
 ## Houston Museum of Natural Science, Texas, USA
 A short stroll through exhibits of dinosaurs, to stones, masks and mummies. [Tour here.](https://artsandculture.google.com/streetview/houston-museum-of-natural-science/_wFlHDt_qUqYXQ?hl=en)
 
-## Milkyway Galaxy
-Tour the Milkyway Galaxy from our sun, through our solar system to the outer reaches. [Explore here.](http://stars.chromeexperiments.com)
+## Milky Way Galaxy
+Tour the Milky Way Galaxy from our sun, through our solar system to the outer reaches. [Explore here.](http://stars.chromeexperiments.com)
 
 ## Musée d’Orsay, Paris, France
 Virtual tour through dozens of famous works of French artists who worked and lived between 1848 and 1914. Get a peek at artworks from Monet, Cézanne, and Gauguin, among others. [Tour here.](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
