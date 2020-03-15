@@ -130,6 +130,12 @@ Czech linguist, data scientist, graphic designer, and musician who creates educa
 ## Khan Academy
 Especially good for maths and computing for all ages but other subjects at Secondary level. Note this uses the U.S. grade system but it's mostly common material. [Learn here.](https://www.khanacademy.org)
 
+## Knitting
+Start knitting for children. [Knit here.](https://blog.tincanknits.com/2015/09/03/teaching-kids-to-knit/?fbclid=IwAR2YfIU7PjR1SL5dQIsDP8fsg5ehSFK7UgRB9fKAF-OUj36vE8B6XDKpMPs)
+
+## Lapbooking
+Showing a variety of ways to create a project lapbook. [Make it.](https://www.scholastic.com/teachers/blog-posts/meghan-everette/lapbooks-creative-engagement-purposeful-activities/?fbclid=IwAR0zlLwgNc7E5-j4dO8W19s_zNMvScx1l0UVuplFdMkINKKERFmd_84eG3U)
+
 ## MinuteEarth
 A Youtube Channel all about science and stories about the planet. [Watch here.](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w)
 
