@@ -106,6 +106,9 @@ Offers hundreds of games, books, comics, and videos that develop skills in math,
 ## Futurelearn
 Free to access 100s of courses, only pay to upgrade if you need a certificate in your name (own account from age 13+ but younger learners can use a parent account). [Link here.](https://www.futurelearn.com)
 
+## Galaxy Zoo
+Volunteer to help explore galaxies near and far. [Categorise here.](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
+
 ## History of Maths
 Follow the long journey from antiquity, from the time of ancient Greek and Arab philosophers. Join us as we trace the spectacular evolution of mathematics through the centuries. [Link here.](https://www.superprof.co.uk/blog/learn-maths-history/?fbclid=IwAR2BAntfMaOPquMRz32KA3Jkio07ibLKEMh60z6ML0N8GFzOf1Ioju_3Z_8)
 
