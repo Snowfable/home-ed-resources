@@ -15,7 +15,7 @@ From temples, art museums to heritage sites all around the world. You can access
 <br>
 
 ## Ancient Nara: Yakushi-ji Temple, Nara, Japan
-Visit an ancient temple. [Tour here.](https://artsandculture.google.com/streetview/ancient-nara-yakushi-ji-temple/MgGege7HM9Ja8w?hl=en&sv_lng=135.7844693898109&sv_lat=34.66823987034128&sv_h=115.59&sv_p=17.36&sv_pid=fk3GiyGT4LtRsiwlVZ89sg&sv_z=1)
+Visit an ancient temple from the Nara era of Japan. [Tour here.](https://artsandculture.google.com/streetview/ancient-nara-yakushi-ji-temple/MgGege7HM9Ja8w?hl=en&sv_lng=135.7844693898109&sv_lat=34.66823987034128&sv_h=115.59&sv_p=17.36&sv_pid=fk3GiyGT4LtRsiwlVZ89sg&sv_z=1)
 
 ## British Museum - London, UK
 Virtual tours along the Great Court and discover ancient artifacts from the ancient Rosetta Stone to Egyptian mummies. [Tour here.](https://britishmuseum.withgoogle.com)
