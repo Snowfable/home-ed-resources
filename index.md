@@ -120,7 +120,7 @@ Teaching how to code with a variety of themed games. [Code here.](https://code.o
 <br>Check out their Minecraft Hour of Code Tutorials. [Code here.](https://code.org/minecraft)
 
 ## How Stuff Works
-[How here.](https://science.howstuffworks.com)
+From science and engineering to innovation and nature. [How here.](https://science.howstuffworks.com)
 
 ## iDEA Awards
 Digital enterprise award scheme you can complete online. [Investigate here.](https://idea.org.uk)
