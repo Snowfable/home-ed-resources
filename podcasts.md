@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Podcasts
+title: The Education Hub
+description: sharing resources for all children at home
 ---
 
 {% include_relative nav.md %}
 
-# Listening in
+# Podcasts
 Podcasts are a great way of accessing various topics. Many universities and other establishments offer podcasts as a way for people to keep up with new discoveries and latest research.
 
 ## Ask the Nincompoops
