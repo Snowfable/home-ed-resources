@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Apps
+title: The Education Hub
+description: sharing resources for all children at home
 ---
 
 {% include_relative nav.md %}
 
-# Here Be Apps
+# Apps
 Here is a list of free educational apps. Some are available on either Android or iOS and some are available on both. 
 
 ## ABRSM Aural Trainer Grades 1-5 
