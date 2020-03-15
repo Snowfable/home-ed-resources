@@ -12,7 +12,7 @@ From temples, art museums to heritage sites all around the world. You can access
 <br>[Read about how they capture here.](https://artsandculture.google.com/project/openheritage)
 
 
-<br><br><br><br>
+<br><br>
 ## Ancient Nara: Yakushi-ji Temple, Nara, Japan
 Visit an ancient temple. [Tour here.](https://artsandculture.google.com/streetview/ancient-nara-yakushi-ji-temple/MgGege7HM9Ja8w?hl=en&sv_lng=135.7844693898109&sv_lat=34.66823987034128&sv_h=115.59&sv_p=17.36&sv_pid=fk3GiyGT4LtRsiwlVZ89sg&sv_z=1)
 
