@@ -82,7 +82,7 @@ Swift Playgrounds is a revolutionary app that makes it fun to learn and experime
 Watch TED talks wherever you are. [Link here.](https://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks?fbclid=IwAR16eZFvq2uzVlm9krsJJoB1dcy7-QUN-7FXdcOFAfkFbMZP2IGNxLex16c)
 
 ## The Elementals
-A fun periodic table where the elements have personality. Discover the melting and boiling points of each of the elements or the configuration of the electrons.[Poke here.](https://apps.apple.com/us/app/the-elementals/id383675775?ign-mpt=uo%3D8)
+A fun periodic table where the elements have personality. Discover the melting and boiling points of each of the elements or the configuration of the electrons. [Poke here.](https://apps.apple.com/us/app/the-elementals/id383675775?ign-mpt=uo%3D8)
 
 ## Total Solar Eclipse
 This app allows you to view three simultaneous video streams: 1) LIVE coverage hosted by Exploratorium educators and NASA scientists, 2) LIVE coverage in Spanish hosted by Exploratorium educators, and 3) a non-narrated, two and a half hour live telescope view of the full eclipse. [Eclipse here.](https://www.exploratorium.edu/explore/apps/total-solar-eclipse-app)
