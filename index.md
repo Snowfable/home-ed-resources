@@ -6,7 +6,7 @@ description: sharing resources for all children at home
 
 {% include_relative nav.md %}
 
-# Online education resources 
+# Online Resources 
 A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. 
 <br>
 
