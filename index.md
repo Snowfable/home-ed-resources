@@ -209,6 +209,9 @@ The aim of Science Kids is to provide educational resources for teachers and par
 ## Scratch
 Creative computer programming. [Program here.](https://scratch.mit.edu/explore/projects/games/)
 
+## ScratchJr
+ScratchJr is an introductory programming language that enables young children (ages 5-7) to create their own interactive stories and games. [Code here.](https://www.scratchjr.org/?fbclid=IwAR3CIkEjzWRyrMF06lT0iMXROIByxb7MsvDaxchGeFezCkZwky4odcuNLrc)
+
 ## Seneca
 For those revising at GCSE or A level. Tons of free revision content. Paid access to higher level material. [Revise here.](https://www.senecalearning.com)
 
