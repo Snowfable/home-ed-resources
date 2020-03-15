@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apps
+title: Higher
 ---
 
 {% include_relative nav.md %}
