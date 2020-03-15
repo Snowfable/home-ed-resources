@@ -7,7 +7,7 @@ description: sharing resources for all children at home
 {% include_relative nav.md %}
 
 # Virtual Tours around the World
-From Temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. 
+From temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. 
 <br>[Google Arts & Culture sites here.](https://artsandculture.google.com/search/streetview?hl=en)
 <br>[Read about how they capture here.](https://artsandculture.google.com/project/openheritage)
 
