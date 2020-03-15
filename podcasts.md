@@ -4,7 +4,7 @@ title: The Education Hub
 description: sharing resources for all children at home
 ---
 
-{% include_relative nav.md %}
+{% include nav.md %}
 
 # Podcasts
 Podcasts are a great way of accessing various topics. Many universities and other establishments offer podcasts as a way for people to keep up with new discoveries and latest research.
@@ -60,4 +60,4 @@ Providing open content on a wide variety of subjects. [Listen here.](http://podc
 Hosts Mindy Thomas and Guy Raz guide curious kids and their grown-ups on a journey into the wonders of the world around them. We'll go inside our brains, out into space and deep into the coolest new stories in science and technology. [Listen here.](https://www.npr.org/podcasts/510321/wow-in-the-world?t=1584204078047&fbclid=IwAR3-l_UUg6wHMjMUmEE5UDyqTaOV1Ln9brcZ20X4nrH4c99CjwqjAZa9LCs)
 
 
-{% include_relative footer.md %}
+{% include footer.md %}
