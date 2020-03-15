@@ -40,7 +40,7 @@ Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/
 ## Cells Alive!
 Explore, study and play all about cells, microbes and the immune system. [Link here.](https://www.cellsalive.com)
 
-## Chemistry Online Interactive Activities for Students
+## Chemistry Online Interactive
 Activities that cover the following chapters: periodic table, atomic energy, chemical bonding, chemical reactions, chemical dynamics and solutions. [Bond away.](https://www.uen.org/core/science/studentactivities/chemistry.shtml)
 
 ## Code Monster
