@@ -12,6 +12,9 @@ description: sharing resources for all children at home
 ## How to make a Bug Box
 Encourage ladybirds, lacewings and spiders into your garden by creating a bug box. [Make it.](https://www.gardenersworld.com/how-to/diy/how-to-make-a-bug-box/)
 
+## Knitting
+Start knitting for children. [Knit here.](https://blog.tincanknits.com/2015/09/03/teaching-kids-to-knit/?fbclid=IwAR2YfIU7PjR1SL5dQIsDP8fsg5ehSFK7UgRB9fKAF-OUj36vE8B6XDKpMPs)
+
 ## Make a Hedgehog House
 How to make a safe and sturdy home for hedgehogs. 
 <br>[Gardeners' World make.](https://www.gardenersworld.com/how-to/diy/how-to-make-a-hedgehog-house/)
