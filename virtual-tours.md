@@ -5,7 +5,7 @@ layout: default
 {% include nav.html %}
 
 # Virtual Tours
-From temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site. 
+From temples, art museums to heritage sites all around the world. You can access virutal tours via the Google Arts & Culture site.
 <br>[Google Arts & Culture sites here.](https://artsandculture.google.com/search/streetview?hl=en)
 <br>[Read about how they capture here.](https://artsandculture.google.com/project/openheritage)
 
@@ -26,6 +26,9 @@ See the Guggenheim’s famous spiral staircase. Follow the works of art from the
 
 ## Houston Museum of Natural Science, Texas, USA
 A short stroll through exhibits of dinosaurs, to stones, masks and mummies. [Tour here.](https://artsandculture.google.com/streetview/houston-museum-of-natural-science/_wFlHDt_qUqYXQ?hl=en)
+
+## Milkyway Galaxy
+Tour the Milkyway Galaxy from our sun, through our solar system to the outer reaches. [Explore here.](http://stars.chromeexperiments.com)
 
 ## Musée d’Orsay, Paris, France
 Virtual tour through dozens of famous works of French artists who worked and lived between 1848 and 1914. Get a peek at artworks from Monet, Cézanne, and Gauguin, among others. [Tour here.](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)
