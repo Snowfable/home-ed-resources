@@ -243,17 +243,13 @@ Writing by teens for teens. [Read here.](https://www.teenink.com)
 ## The Artful Parent
 Good, free art activities linked to from this Facebook page. [Craft here.](https://www.facebook.com/artfulparent/)
 
+## The Feynman Lectures on Physics
+Free to read online, high quality up-to-date copy of Feynman's legendary lectures.
+<br>[Link here.](https://www.feynmanlectures.caltech.edu)
+<br>[Watch videos here.](https://www.microsoft.com/en-us/research/project/tuva-richard-feynman/#!1-physical-law)
+
 ## The Homeschool Scientist
 Find experiment ideas, curriculum choices, science resources, expert advice and more! [Experiment here.](https://thehomeschoolscientist.com/category/experiments/)
-
-## The Paleontology Portal
-A US resource for anyone interested in paleontology, from the professional in the lab to the interested amateur scouting for fossils to the student in any classroom. [Dig here.](http://paleoportal.org/index.php)
-
-## Theatre Folk Resources
-From monologues, two person scenes, playwriting to group scenes, directing and playwriting. [Act here.](https://www.theatrefolk.com/free-resources)
-
-## The Feynman Lectures on Physics
-Free to read online, high quality up-to-date copy of Feynman's legendary lectures. [Link here.](https://www.feynmanlectures.caltech.edu)
 
 ## The Ig Nobel Prize
 For achievements that first make people LAUGH
@@ -268,6 +264,9 @@ Wide range of cool educational videos. [See this.](https://thekidshouldseethis.c
 ## The Nobel Prize
 Official website of the Nobel Prize. [Link here.](https://www.nobelprize.org)
 
+## The Paleontology Portal
+A US resource for anyone interested in paleontology, from the professional in the lab to the interested amateur scouting for fossils to the student in any classroom. [Dig here.](http://paleoportal.org/index.php)
+
 ## The Royal Institution
 Involve with science, mathematics and engineering, and keep up with the Christmas lectures.
 <br>[Family site.](https://www.rigb.org/families)
@@ -278,6 +277,9 @@ Searching for journals? [Search here.](https://royalsocietypublishing.org/search
 
 ## The Virtual Fossil Museum
 Fossils across geological time presented in multiple contexts of geological history, the tree of life, paleobiology and evolution. The Virtual Fossil Museum is an educational resource providing an ever-growing extensive collection of fossil images. [Excavate here.](http://www.fossilmuseum.net)
+
+## Theatre Folk Resources
+From monologues, two person scenes, playwriting to group scenes, directing and playwriting. [Act here.](https://www.theatrefolk.com/free-resources)
 
 ## Tinkercad
 All kinds of making. [Make here.](https://www.tinkercad.com)
