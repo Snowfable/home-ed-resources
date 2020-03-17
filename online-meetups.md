@@ -8,6 +8,19 @@ layout: default
 Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online.
 
 
+
+## Facebook Messenger
+It's likely you came to this website via Facebook, and if you have Facebook, there is also the option of downloading the Facebook Messenging App and link it to your Facebook account. The app allows you to text one-to-one or in a group, video chat, voice calls and share photos and files. Video chats can be fun as there are game additions that can be used so you're playing games whilst video chatting. Age 13+.
+<br>[Download Facebook Messenger.](https://www.messenger.com)
+<br>[Messenger Safety & Privacy.](https://www.messenger.com/privacy)
+
+## Facebook Messenger KIDS
+Messenger Kids is a video chat and messaging app designed for kids to communicate with family and close friends. Parents set up and manage their child's Messenger Kids account through their own Facebook account.
+Parents control their child's contact list. Parents use their own Messenger account to message and video chat with a child who's using Messenger Kids.
+Adult family and friends who are added as contacts to a Messenger Kids account connect to the account through their own Messenger accounts.
+<br>[Download Facebook Messenger KIDS.](https://messengerkids.com)
+<br>[Messenger KIDS Safety & Privacy.](https://www.facebook.com/legal/messengerkids/privacypolicy?version=2020)
+
 ## Lichess
 Got a chess player? Got a friend who's a chess player? They can play online for free here. Just start a game and share the link with a friend to join. Games come with a private text chat facility alongside the board. [Play chess here.](https://lichess.org)
 
@@ -18,13 +31,25 @@ Popular building and exploration game. If both of you are on compatible versions
 
 ## Outschool
 Live online classes for kids, many on fun topics (always plenty for Pokémon and Harry Potter fans), as well as academic subjects, all led by experienced online tutors. You could arrange with a friend to be in the same one-time or recurring class, which generally includes relevant discussion. Parents: classes are reasonably priced and there is a referral sceme where you can get credit for future lessons when your referees take their first class. Outschool are also offering free classes for US children affected by school closures - 2nd link above - non US will need to check if you're eligible - these might also be at unsuitable times, due to time differences, but older kids might like an evening class?
-<br>[Main site here.](https://outschool.com)
+<br>[Outschool site here.](https://outschool.com)
 <br>[Recent information about US school closures here.](https://outschool.com/2020-school-closures-offer#abk7oxddjo)
+<br>[Outschool safety information.](https://outschool.com/trust#usbmFikeN4)
+<br>[Outschool privacy policy.](https://outschool.com/privacy#usbmFikeN4)
 
 ## Thinkers Meetup
-Live, online classes taught by experts who are enthusiastic and creative. Classes for young bright thinkers worldwide. Sign up for the same class as your friends! [Join here.](https://www.thinkersmeetup.com)
+Live, online classes taught by experts who are enthusiastic and creative. Classes for young bright thinkers worldwide. Sign up for the same class as your friends!
+<br>[ThinkersMeetup here.](https://www.thinkersmeetup.com)
+<br>[ThinkersMeetup privacy policy.](https://www.thinkersmeetup.com/tmu-s-privacy-policy)
+
+## WhatsApp
+WhatsApp enables video calls, voice calls, voice messages, individual and group chats, photo and file sharing and more. It has enhanced communication privacy and uses end-to-end encryption, your messages are not stored on their servers. Users’ messages are protected from impostors. However, the platform has been acquired by Facebook and Facebook’s privacy policy is under a lot of scrutiny. So that is a consideration. Age 16+.
+<br>[Get WhatsApp here.](https://www.whatsapp.com/download)
+<br>[WhatsApp safety tips.](https://www.whatsapp.com/safety)
+<br>[WhatsApp security.](https://www.whatsapp.com/security/)
 
 ## Zoom
-Designed for video conferencing, this online platform is free, although there are more advantages for the priced options. One-to-one sessions are unlimited in time, for more than two people in a session, the time is limited to 40 minutes. Sessions consist of video, audio, text chat, screen sharing and interactive whiteboard. You do not have to join meetings with video turned on, nor the audio. Sign up, then generate a link and share it with only those you want to meet with online. You can screen share videos and discuss favourite things. Maybe kids can run their own book group or film discussion class? Or if you know a tutor who is at home, they could teach yours and friends, e.g. Spanish. There is a slight delay, which does unfortunately make any kind of music performance over Zoom a challenge, however it's good for most things. [Link here.](https://zoom.us)
+Designed for video conferencing, this online platform is free, although there are more advantages for the priced options. One-to-one sessions are unlimited in time, for more than two people in a session, the time is limited to 40 minutes. Sessions consist of video, audio, text chat, screen sharing and interactive whiteboard. You do not have to join meetings with video turned on, nor the audio. Sign up, then generate a link and share it with only those you want to meet with online. You can screen share videos and discuss favourite things. Maybe kids can run their own book group or film discussion class? Or if you know a tutor who is at home, they could teach yours and friends, e.g. Spanish. There is a slight delay, which does unfortunately make any kind of music performance over Zoom a challenge, however it's good for most things.
+<br>[Zoom here.](https://zoom.us)
+<br>[Zoom security.](https://zoom.us/security)
 
 {% include footer.md %}
