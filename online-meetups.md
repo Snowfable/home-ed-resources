@@ -8,16 +8,13 @@ layout: default
 Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online.
 
 
-
 ## Facebook Messenger
-It's likely you came to this website via Facebook, and if you have Facebook, there is also the option of downloading the Facebook Messenging App and link it to your Facebook account. The app allows you to text one-to-one or in a group, video chat, voice calls and share photos and files. Video chats can be fun as there are game additions that can be used so you're playing games whilst video chatting. Age 13+.
+It's likely you came to this website via Facebook, and if you have Facebook, there is also the option of downloading the Facebook Messenging App and linking it to your Facebook account. The app allows you to text one-to-one or in a group, video chat, voice calls and share photos and files. Video chats can be fun as there are game additions that can be used so you're playing games whilst video chatting. Age 13+.
 <br>[Download Facebook Messenger.](https://www.messenger.com)
 <br>[Messenger Safety & Privacy.](https://www.messenger.com/privacy)
 
 ## Facebook Messenger KIDS
-Messenger Kids is a video chat and messaging app designed for kids to communicate with family and close friends. Parents set up and manage their child's Messenger Kids account through their own Facebook account.
-Parents control their child's contact list. Parents use their own Messenger account to message and video chat with a child who's using Messenger Kids.
-Adult family and friends who are added as contacts to a Messenger Kids account connect to the account through their own Messenger accounts.
+Messenger Kids is a version of Facebook Messenger but for children younger than 13. Parents set up and manage their child's Messenger Kids account through their own Facebook account. Parents control their child's contact list. Parents use their own Messenger account to message and video chat with a child who's using Messenger Kids. Adult family and friends who are added as contacts to a Messenger Kids account, connect to the account through their own Messenger accounts.
 <br>[Download Facebook Messenger KIDS.](https://messengerkids.com)
 <br>[Messenger KIDS Safety & Privacy.](https://www.facebook.com/legal/messengerkids/privacypolicy?version=2020)
 
