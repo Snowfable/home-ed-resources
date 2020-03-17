@@ -138,7 +138,7 @@ Czech linguist, data scientist, graphic designer, and musician who creates educa
 Especially good for maths and computing for all ages but other subjects at Secondary level. Note this uses the U.S. grade system but it's mostly common material. [Learn here.](https://www.khanacademy.org)
 
 ## Lapbooking
-Showing a variety of ways to create a project lapbook. [Make it.](https://www.scholastic.com/teachers/blog-posts/meghan-everette/lapbooks-creative-engagement-purposeful-activities/?fbclid=IwAR0zlLwgNc7E5-j4dO8W19s_zNMvScx1l0UVuplFdMkINKKERFmd_84eG3U)
+Showing a variety of ways to create a project lapbook. [Make it.](https://www.homeschoolshare.com/lapbooking_resources.php?fbclid=IwAR3yALCQDSIZLS9iOwPNzOQt7to5AFeNg-qfTB5e4U-4YUYfYSrtOtmMiqc)
 
 ## MinuteEarth
 A Youtube Channel all about science and stories about the planet. [Watch here.](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w)
