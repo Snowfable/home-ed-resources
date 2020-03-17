@@ -14,7 +14,7 @@ It's likely you came to this website via Facebook, and if you have Facebook, the
 <br>[Messenger Safety & Privacy.](https://www.messenger.com/privacy)
 
 ## Facebook Messenger KIDS
-Messenger Kids is a version of Facebook Messenger but for children younger than 13. Parents set up and manage their child's Messenger Kids account through their own Facebook account. Parents control their child's contact list. Parents use their own Messenger account to message and video chat with a child who's using Messenger Kids. Adult family and friends who are added as contacts to a Messenger Kids account, connect to the account through their own Messenger accounts.
+Messenger Kids is a version of Facebook Messenger but for children younger than 13 who want to interact with each other, parents and other family members. Parents set up and manage their child's Messenger Kids account through their own Facebook account. They can control their child's contact list by adding contacts to a Messenger Kids account.
 <br>[Download Facebook Messenger KIDS.](https://messengerkids.com)
 <br>[Messenger KIDS Safety & Privacy.](https://www.facebook.com/legal/messengerkids/privacypolicy?version=2020)
 
