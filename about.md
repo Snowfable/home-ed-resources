@@ -12,7 +12,7 @@ Starting with our local home ed group's list of online education resources, (whi
 Parents - there's already more here than anyone can get through in a lifetime, so - don't panic - relax and let them choose!
 
 This information can be shared for non commercial use. Please do so and help out families who are social distancing, self isolating and self quarantining.
-<br>*March 2020*
+<br><br>*March 2020*
 
 
 {% include footer.md %}
