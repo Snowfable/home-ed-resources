@@ -10,13 +10,17 @@ From temples, art museums to heritage sites all around the world. You can access
 <br>[Read about how they capture here.](https://artsandculture.google.com/project/openheritage)
 
 
-<br>
-
 ## Ancient Nara: Yakushi-ji Temple, Nara, Japan
 Visit an ancient temple from the Nara era of Japan. [Tour here.](https://artsandculture.google.com/streetview/ancient-nara-yakushi-ji-temple/MgGege7HM9Ja8w?hl=en&sv_lng=135.7844693898109&sv_lat=34.66823987034128&sv_h=115.59&sv_p=17.36&sv_pid=fk3GiyGT4LtRsiwlVZ89sg&sv_z=1)
 
+## Antarctica, South Georgia Island
+See South Georgia Island from an arial 360º view. [Link here.](https://www.airpano.com/360photo/South-Georgia-Subantarctic/)
+
 ## British Museum - London, UK
 Virtual tours along the Great Court and discover ancient artifacts from the ancient Rosetta Stone to Egyptian mummies. [Tour here.](https://britishmuseum.withgoogle.com)
+
+## Central District, Hong Kong
+See Hong Kong from an arial 360º view. [Tour here.](https://www.airpano.com/360photo/Honkong/)
 
 ## Great Barrier Reef, Queensland, Australia
 Take a non-watery dive to see below the waterline. [Tour here.](https://artsandculture.google.com/streetview/great-barrier-reef/zgGFG_Mu3kqWEw?hl=en&sv_lng=152.7169205864063&sv_lat=-24.11509362375578&sv_h=206&sv_p=14&sv_pid=CAoSLEFGMVFpcE15cXoxTFBOdWVkeEVLakVad2VqQU4zTHl6bGpWZjc4QV9SY1Fw&sv_z=1)
@@ -44,6 +48,9 @@ A quick view of this historic town once buried in ashes. [Tour here.](https://ar
 
 ## Rani Ki Vav - The Queen's Stepwell, New Delhi, India
 One of UNESCO's World Heritage Sites, built around the 11th century and rediscovered in 1940. [Tour here.](https://artsandculture.google.com/streetview/rani-ki-vav-the-queen-s-stepwell/SwHoqaQRCBDCdw?hl=en&sv_lng=72.10189973772049&sv_lat=23.85891916904759&sv_h=260.8742499887913&sv_p=1.1420150471925012&sv_pid=mw-E3T4d8nEAAAQfCPVuUQ&sv_z=1)
+
+## Rome, Italy
+See Rome from an arial 360º view. [Visit here.](https://www.airpano.com/360photo/Rome-Italy/)
 
 ## Santuario Historico de Macchu Picchu, Peru
 Built in the 9th century and one of the most complete Inca sites in the world. [Tour here.](https://artsandculture.google.com/streetview/santuario-historico-de-machu-picchu-casa-de-los-nobles/aQFExMrHgP-cnQ?hl=en&sv_lng=-72.5449748168174&sv_lat=-13.16402863344787&sv_h=31.918588232245124&sv_p=-8.547736183766347&sv_pid=7Teak5G7DlGXB9DTZSjEEQ&sv_z=0.09791375652692436)
@@ -77,5 +84,8 @@ A global cultural icon. [See here.](https://artsandculture.google.com/streetview
 
 ## Van Gogh Museum, Amsterdam
 The largest collection of artworks by Vincent van Gogh. [Tour here.](https://artsandculture.google.com/partner/van-gogh-museum?hl=en)
+
+## Zhangjiajie Glass Bridge, China
+See the Zhangjiajie Glass Bridge from an arial 360º view. [Dare to walk here.](https://www.airpano.com/360photo/china-glass-bridge/)
 
 {% include footer.md %}
