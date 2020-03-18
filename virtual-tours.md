@@ -66,6 +66,9 @@ The Temple of Concord in the ancient city of Rome. [Link here.](https://artsandc
 ## The Louvre, Paris, France
 It's closed from today (March 2020). But you can still have a peek. [Tour here.](https://www.louvre.fr/en/visites-en-ligne)
 
+## The Minack Theatre, Cornwall, UK
+The Minack is a unique open air theatre perched on the cliffs overlooking the spectacular panorama of Porthcurno Bay. [Turn here.](https://www.minack.com/visit-us/360o-virtual-tour)
+
 ## The National Gallery, London, UK
 Founded in 1824, it houses a collection of over 2,300 paintings. [Link here.](https://artsandculture.google.com/partner/the-national-gallery-london?hl=en)
 
