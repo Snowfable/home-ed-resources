@@ -4,9 +4,9 @@ layout: default
 
 {% include nav.html %}
 
-# Online Resources
-A non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators.
-<br>
+# Resource Index
+Here is a non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. This covers a range of topics. See above menu, for more categorised lists.
+
 
 ## Academic Earth
 Free online college courses from the world’s top universities. [Learn here.](https://academicearth.org)
