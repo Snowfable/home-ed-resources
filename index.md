@@ -149,6 +149,9 @@ Free science lessons. [Investigate here.](https://mysteryscience.com)
 ## NaNoWriMo
 A nonprofit organization that provides tools, structure, community, and encouragement to help people find their voices, achieve creative goals, and build new worlds — on and off the page.[Write here.](https://nanowrimo.org)
 
+## NASA Jet Propulsion Laboratory
+Videos produced by NASA's Jet Propulsion Laboratory. [View here.](https://www.youtube.com/user/JPLnews/videos)
+
 ## NASA Stem Engagement
 Stem resources for educators. [Link here.](https://www.nasa.gov/stem/foreducators/k-12/index.html)
 
