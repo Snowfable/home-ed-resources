@@ -6,7 +6,7 @@ layout: default
 
 # Crafts
 
-All Free crafts
+## All Free crafts
 Craft projects, sticky, sewing, felting, etc. [Craft away.](https://www.allfreecrafts.com/?fbclid=IwAR0dYSQIlJL8DQKfcMu3ajPv6ELahAHWTdXyWjqZDQMgzqmbyDPq8LL-GuI)
 
 ## Calligraphy
