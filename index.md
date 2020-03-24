@@ -90,7 +90,7 @@ Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 University course on special relativity, general relativity and quantum theory. Run at University of Pittsburgh by John D. Norton and Gal Ben Porath. [Link here.](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 
 ## Encounter Edu
-STEM Live lessons on global topics on various sciences like marine biology, coding and more. Also available are teacher resources, multimedia and STEAM activities to do.  
+STEM Live lessons on global topics on various sciences like marine biology, coding and more. Also available are teacher resources, multimedia and STEAM activities to do. Educators will need to sign up in order to ask questions in advance or to ask in chat during live sessions. 
 [Encounter here.](https://encounteredu.com)
 
 ## English Chess Federation
