@@ -90,7 +90,7 @@ Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
 University course on special relativity, general relativity and quantum theory. Run at University of Pittsburgh by John D. Norton and Gal Ben Porath. [Link here.](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/index.html)
 
 ## Encounter Edu
-STEM Live lessons on global topics on various sciences like marine biology, coding and more. Also available are teacher resources, multimedia and STEAM activities to do. Educators will need to sign up in order to ask questions in advance or to ask in chat during live sessions. 
+STEM Live lessons on global topics on various sciences like marine biology, coding and more. Also available are teacher resources, multimedia and STEAM activities to do. Educators will need to sign up in order to ask questions in advance or to ask in chat during live sessions.
 [Encounter here.](https://encounteredu.com)
 
 ## English Chess Federation
@@ -103,6 +103,9 @@ A one-stop resource for chess players, chess organisers and interested parties a
 <br>[Famous Female Mathematicians.](https://famous-mathematicians.com/top-10-female-mathematicians-time/)
 <br>[Famous Mathematicians.](http://famous-mathematicians.org)
 <br>[Famous Philosophers.](http://famous-philosophers.com)
+
+## Fold It
+A crowdsourcing computer game enabling you to contribute to important scientific research. [Fold it here](https://fold.it/portal/info/about)
 
 ## Fossils UK
 What is a Fossil? A fossil is an organism, creature, plant or burrow that lived millions of years ago. Fossils have the same density as rocks and weigh roughly the same. Fossils are preserved in rock or clay. [Dig here.](https://www.fossilidentification.org)
