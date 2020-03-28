@@ -39,6 +39,10 @@ Blue Peter Badges, if you have a stamp and a nearby post box. [Link here.](https
 ## British Council
 Resources for English language learning. [Link here.](https://www.britishcouncil.org/school-resources/find)
 
+## Cbeebies Fun Exercise
+Easy ways to get you and your kids moving while self-isolating. Including: work out with Andy, balloon ball, dancing, yoga and more.
+[Move here.](https://www.bbc.co.uk/cbeebies/grownups/fun-exercises-to-do-at-home-with-kids?fbclid=IwAR21GqeBxwoszrznj0_FWo1API5pvrtSRGKYAGC84Ymx1yW-jKWq8dkAQHc)
+
 ## Cbeebies Radio
 Listening activities for the younger ones. [Listen here.](https://www.bbc.co.uk/cbeebies/radio)
 
@@ -241,6 +245,9 @@ ScratchJr is an introductory programming language that enables young children (a
 ## Seneca
 For those revising at GCSE or A level. Tons of free revision content. Paid access to higher level material. [Revise here.](https://www.senecalearning.com)
 
+## Sport England #StayInWorkOut
+Lots of fun and creative ideas on how to get active at home, with exclusive offers and workouts from content providers such as Les Mills on Demand, Joe Wicks (The Body Coach) and FiiT. [Work out.](https://www.sportengland.org/stayinworkout?fbclid=IwAR1s2xSopoPiE6Msz5_v1zRiaFyfRnqGS2mJWFjHd4pnzkRl8FXizydxejQ#join_the_movement)
+
 ## Storybird
 Write and present your stories or take part in over 700 writing challenges. [Write here.](https://storybird.com/?fbclid=IwAR1CNhJZDIqhN_ya7MEdbBOcEfYodc1bPdC3sv2Y2L7FYJti1VYik5kD208)
 
@@ -312,6 +319,9 @@ Visual mathematics, interactive teaching resources. [Math here.](https://www.vis
 
 ## Visuwords
 Visual dictionary, thesaurus and interactive lexicon. [Visualise here.](https://visuwords.com)
+
+## Wellbeing with Save the children
+Wellbeing and relaxation exercise for children. [Calm here.](https://www.savethechildren.org.uk/what-we-do/coronavirus/resources/learning-at-home/relaxation-exercises-to-do-at-home-with-your-kids?fbclid=IwAR2wGy0vUjcYtLU8GVxY89ze1DPZCHgS5V-uEvX2Rq8pTmcBl_83tmd32zE)
 
 ## Wikibooks
 Open content textbook collection. [Read here.](https://en.wikibooks.org/wiki/Main_Page)
