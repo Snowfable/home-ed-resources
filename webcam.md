@@ -7,7 +7,7 @@ layout: default
 # Webcam
 
 ## African Animals - Watering Hole, Laikipia County, Kenya
-Welcome to the watering hole at Mpala Research Centre in the highlands of central Kenya! Watch elephants, hippos, giraffes, Grevy's zebras, gazelles, crocodiles, leopards and many other species take a drink (or a quick dip). [Watch here.](https://explore.org/livecams/currently-live/african-watering-hole-animal-camera)
+Welcome to the watering hole at Mpala Research Centre in the highlands of central Kenya! Watch elephants, hippos, giraffes, Grevy's zebras, gazelles, crocodiles, leopards and many other species take a drink (or a quick dip). [Watch here.](https://explore.org/livecams/african-wildlife/african-watering-hole-animal-camera)
 
 ## Alligator Swamp and Spoonbills, St. Augustine, Florida, USA
 This live cam overlooks the swamp at St. Augustine's Alligator Farm Zoological Park in Florida, where native herons, egrets, roseate spoonbills, and wood storks seek the security of the swamp to roost and raise their young. [Link here.](https://explore.org/livecams/currently-live/alligator-spoonbill-swamp-cam)
