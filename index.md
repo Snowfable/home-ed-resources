@@ -18,6 +18,9 @@ From the American Chemical Society, adventures in chemistry is a way for childre
 ## Art Contests for Kids
 Contests can be a way to help build confidence. [Challenge here.](https://www.samanthasbell.com/art-contests-for-kids/)
 
+## Audible Stories (Amazon)
+For as long as schools are closed (April 2020 - Covid-19) all stories are free to stream on your desktop, laptop, phone or tablet. Explore the collection. [Hear them here.](https://stories.audible.com/start-listen_)
+
 ## Baldwin's Library of Historical Children's Literature
 Online collection of children's books from by gone eras. [Read here.](https://ufdc.ufl.edu/baldwin/all/thumbs)
 
