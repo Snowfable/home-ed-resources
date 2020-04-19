@@ -65,12 +65,10 @@ Compound Interest is a site that aims to take a closer look at the chemical comp
 Online maths games for young children. American based. [Link here.](https://www.coolmath4kids.com)
 
 ## Crash Course
-You Tube videos on many subjects: biology, physics, economics, astronomy, world history, literature, philosophy to name a few.
-<br>[Watch here.](https://www.youtube.com/user/crashcourse/playlists)
-<br>[Main website here.](https://thecrashcourse.com)
-
-## Crash Course Kids
-As above for a younger audience. [Watch here.](https://m.youtube.com/user/crashcoursekids)
+You Tube videos on many subjects: anatomy, mythology, computer science, film, studies, biology, physics, economics, astronomy, world history, literature, philosophy to name a few.
+<br>[Main website here](https://thecrashcourse.com)
+<br>[Crash Course - Youtube Channel](https://www.youtube.com/user/crashcourse/playlists)
+<br>[Crash Course Kids - Youtube Channel](https://m.youtube.com/user/crashcoursekids)
 
 ## Crest Awards
 Science awards you can complete from home. [Challenge here.](https://www.crestawards.org)
