@@ -29,7 +29,6 @@ Popular building and exploration game. If both of you are on compatible versions
 ## Outschool
 Live online classes for kids, many on fun topics (always plenty for Pokémon and Harry Potter fans), as well as academic subjects, all led by experienced online tutors. You could arrange with a friend to be in the same one-time or recurring class, which generally includes relevant discussion. Parents: classes are reasonably priced and there is a referral sceme where you can get credit for future lessons when your referees take their first class. Outschool are also offering free classes for US children affected by school closures - 2nd link above - non US will need to check if you're eligible - these might also be at unsuitable times, due to time differences, but older kids might like an evening class?
 <br>[Outschool site here.](https://outschool.com)
-<br>[Recent information about US school closures here.](https://outschool.com/2020-school-closures-offer#abk7oxddjo)
 <br>[Outschool safety information.](https://outschool.com/trust#usbmFikeN4)
 <br>[Outschool privacy policy.](https://outschool.com/privacy#usbmFikeN4)
 
