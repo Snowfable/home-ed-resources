@@ -5,7 +5,7 @@ layout: default
 {% include nav.html %}
 
 # Online Meetups
-Social distancing? Self isolation? With kids who are missing their friends? Here's some free or affordable and, crucially, safe ways that children can interact online.
+Here's some free or affordable ways that children can interact online.
 
 
 ## Facebook Messenger
