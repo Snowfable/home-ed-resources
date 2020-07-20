@@ -351,9 +351,6 @@ World Geography Games offers you challenging and entertaining quiz games to impr
 ## World Monument Fund
 A non-profit organisation founded to preserve cultural heritage worldwide. [Discover more.](https://www.wmf.org/featured-projects)
 
-## Writers Speak to Kids
-In this NBC Learn special collection, children‘s book authors share their writing experiences to help students learn more about the craft and techniques of creative writing. [Watch now.](https://www.nbclearn.com/writers-speak-to-kids)
-
 ## Writing Contests for Kids
 This round-up of writing contests for kids and opportunities might just help give young writers their first chance at publication. [Write here.](https://imaginationsoup.net/writing-contests-kids-ways-get-published/)
 
