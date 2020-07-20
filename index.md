@@ -114,7 +114,7 @@ A one-stop resource for chess players, chess organisers and interested parties a
 A crowdsourcing computer game enabling you to contribute to important scientific research. [Fold it here](https://fold.it/portal/info/about)
 
 ## Fossils UK
-What is a Fossil? A fossil is an organism, creature, plant or burrow that lived millions of years ago. Fossils have the same density as rocks and weigh roughly the same. Fossils are preserved in rock or clay. [Dig here.](https://www.fossilidentification.org)
+What is a fossil? A fossil is an organism, creature, plant or burrow that lived millions of years ago. Fossils have the same density as rocks and weigh roughly the same. Fossils are preserved in rock or clay. [Dig here.](https://www.fossilidentification.org)
 
 ## Fun Brain
 Offers hundreds of games, books, comics, and videos that develop skills in math, reading, problem-solving and literacy. American system of grades Pre-K through 8. [Play here.](https://www.funbrain.com)
