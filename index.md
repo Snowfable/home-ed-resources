@@ -5,7 +5,7 @@ layout: default
 {% include nav.html %}
 
 # Resource Index
-Here is a non-exhaustive list that might help those affected by school closures due to coronavirus, compiled by home educators. This covers a range of topics. See above menu, for more categorised lists.
+Resources to support education at home, covering a range of topics. Please see the above menu, for more categorised lists.
 
 
 ## Academic Earth
@@ -194,8 +194,8 @@ Love numbers? Here is a site all about numbers. [Number here.](https://www.numbe
 
 ## Oak National Academy
 Aimed at supporting schools, but accessible to all, this site provides free video lessons and resources from UK teachers, with no login required. <br>
-[Main link here.](https://www.thenational.academy/information-for-parents-pupils)<br>
-[Video lessons here.](https://classroom.thenational.academy/?fbclid=IwAR0_u_ZSJpW94_QtAzJDPwkcK5qfd29PGytG0X6JoGgDjEk0Cu9PquOazVc)
+[Info link here.](https://www.thenational.academy/information-for-parents-pupils)<br>
+[Classroom link here.](https://classroom.thenational.academy/?fbclid=IwAR0_u_ZSJpW94_QtAzJDPwkcK5qfd29PGytG0X6JoGgDjEk0Cu9PquOazVc)
 
 ## Open Yale Courses
 Free and open access to a selection of introductory courses. [Learn here.](https://oyc.yale.edu)
