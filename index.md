@@ -22,7 +22,7 @@ Contests can be a way to help build confidence. [Challenge here.](https://www.sa
 For as long as schools are closed (April 2020 - Covid-19) all stories are free to stream on your desktop, laptop, phone or tablet. Explore the collection. [Hear them here.](https://stories.audible.com/start-listen_)
 
 ## Baldwin's Library of Historical Children's Literature
-Online collection of children's books from by gone eras. [Read here.](https://ufdc.ufl.edu/baldwin/all/thumbs)
+Online collection of children's books from bygone eras. [Read here.](https://ufdc.ufl.edu/baldwin/all/thumbs)
 
 ## BBC Learning
 A huge range of resources, many interactive and on a wide range of subjects. Particularly good for learning languages. BBC Bitesize is updated regularly in term time, however some parts of the main site no longer are. No TV licence required except for content on BBC iPlayer.
@@ -38,13 +38,13 @@ Aimed at Secondary age. Multi disciplinary activities. [Link here.](https://www.
 Learn computer programming skills - fun and free. [Blockly here.](https://blockly.games)
 
 ## Blue Peter Badges
-Blue Peter Badges, if you have a stamp and a nearby post box. [Link here.](https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges)
+Earn up to 8 different physical badges that give discounts at a number of attractions with this long running BBC TV show. [Link here.](https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges)
 
 ## British Council
 Resources for English language learning. [Link here.](https://www.britishcouncil.org/school-resources/find)
 
 ## Cbeebies Fun Exercise
-Easy ways to get you and your kids moving while self-isolating. Including: work out with Andy, balloon ball, dancing, yoga and more.
+Easy ways to get you and your kids moving. Including: work out with Andy, balloon ball, dancing, yoga and more.
 [Move here.](https://www.bbc.co.uk/cbeebies/grownups/fun-exercises-to-do-at-home-with-kids?fbclid=IwAR21GqeBxwoszrznj0_FWo1API5pvrtSRGKYAGC84Ymx1yW-jKWq8dkAQHc)
 
 ## Cbeebies Radio
@@ -60,7 +60,7 @@ Free online tests, tips and games for Primary, 11+ and GCSE [Link here.](https:/
 Activities that cover the following chapters: periodic table, atomic energy, chemical bonding, chemical reactions, chemical dynamics and solutions. [Bond away.](https://www.uen.org/core/science/studentactivities/chemistry.shtml)
 
 ## CIMT (Centre for Innovation in Mathematics Teaching)
-Providing materials to support learning in maths from primary through to secondary advanced. [Link here.](http://www.cimt.org.uk/projects/mep/index.htm?fbclid=IwAR0HtEFdc7s8ZkgZ2yKz2tJYTNPiZKErIUUTUph-e9VJ7I4DqM-bnsAE8bA)
+Providing materials to support learning in maths from Primary through to A level. [Link here.](http://www.cimt.org.uk/projects/mep/index.htm?fbclid=IwAR0HtEFdc7s8ZkgZ2yKz2tJYTNPiZKErIUUTUph-e9VJ7I4DqM-bnsAE8bA)
 
 ## Code Camp
 Learn to code by completing coding challenges and building projects. You'll also earn verified certifications along the way. Free.[Code here.](https://www.freecodecamp.org/)
@@ -105,7 +105,7 @@ More drama resources to investigate. [Act here.](https://dramaresource.com/drama
 Online drawing lessons. [Draw here.](https://www.drawspace.com)
 
 ## Ducksters Education Site
-[Learn here.](https://www.ducksters.com)
+Fun educational website with easy to read, history, geography, biography and more. [Learn here.](https://www.ducksters.com)
 
 ## Duolingo
 Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
@@ -168,8 +168,8 @@ A collection of books that represents outstanding historical and contemporary bo
 ## Jakub Marian
 Czech linguist, data scientist, graphic designer, and musician who creates educational materials for students. Has produced more than 700+ articles and 7 books on variety of subjects. [Look here.](https://jakubmarian.com)
 
-## Japan Culture
-Variety of videos focusing on different aspects of Japan. [Link here.](https://www.nhk.or.jp/sougou/japangle_en)
+## Japangle
+A quirky series of videos introducing Japanese culture. [Link here.](https://www.nhk.or.jp/sougou/japangle_en)
 
 ## K12 Math Worksheets
 Printable worksheets aligned with US Common Core mathematics, but can be used by all. [Link here.](http://www.k12mathworksheets.com/)
@@ -400,6 +400,9 @@ A non-profit organisation founded to preserve cultural heritage worldwide. [Disc
 
 ## Writing Contests for Kids
 This round-up of writing contests for kids and opportunities might just help give young writers their first chance at publication. [Write here.](https://imaginationsoup.net/writing-contests-kids-ways-get-published/)
+
+## Young Minds
+Supporting and empowering young minds, whatever the challenges. [Link here.](https://youngminds.org.uk)
 
 ## Zooniverse
 People powered communal projects. [Join here.](https://www.zooniverse.org)
