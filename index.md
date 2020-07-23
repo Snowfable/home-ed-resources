@@ -78,6 +78,7 @@ Compound Interest is a site that aims to take a closer look at the chemical comp
 Online maths games for young children. American based. [Link here.](https://www.coolmath4kids.com)
 
 ## CorbettMaths
+Free video explanations and worksheets from a respected UK mathematics teacher.<br>
 [Link here.](https://corbettmaths.com)<br>
 [Primary link here.](https://corbettmathsprimary.com/)
 
@@ -171,7 +172,7 @@ Czech linguist, data scientist, graphic designer, and musician who creates educa
 Variety of videos focusing on different aspects of Japan. [Link here.](https://www.nhk.or.jp/sougou/japangle_en)
 
 ## K12 Math Worksheets
-[Link here.](http://www.k12mathworksheets.com/)
+Printable worksheets aligned with US Common Core mathematics, but can be used by all. [Link here.](http://www.k12mathworksheets.com/)
 
 ## Khan Academy
 Especially good for maths and computing for all ages but other subjects at Secondary level. Note this uses the U.S. grade system but it's mostly common material. [Learn here.](https://www.khanacademy.org)
