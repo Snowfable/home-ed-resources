@@ -54,6 +54,10 @@ Satellite imagery and topographic laser altimeter data are combined to render th
 ## Physics Studio
 A virtual lab to learn school physics. [Link here](https://chrome.google.com/webstore/detail/physics-studio/acdjlkhckndkodkecjhflckmgbbphhnb?hl=en&fbclid=IwAR0Of_bsjOl5Ez7S4okT-3mvze8YEYFiEUXTtMYUKxPmzcyfLvIi0hvIGGc)
 
+## Pokémon Go
+While on the surface an augmented reality game where you battle (often cute looking) monsters, Pokémon Go requires children to walk around in their environment, encouraging exercise. This involves visiting PokeStops that are generally at local landmarks and features, providing players with engagement in their community and its history. This game is also often a great talking point amongst children. We do advise that players are mindful of traffic and the potential for device theft while using this app.<br>[iOS here.](https://apps.apple.com/us/app/pokémon-go/id1094591345)
+[Android here.](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en_GB)
+
 ## School of Dragons
 Fly fast, train hard, and learn well to become the Ultimate Dragon Trainer! Join Chief Hiccup and Toothless and embark on the thrilling adventures of DreamWorks Animation’s ‘How to Train Your Dragon’. [Train here.](https://apps.apple.com/us/app/school-of-dragons/id622944658?fbclid=IwAR2tBhAigRNLKMR6vJt0PGucqSzc-gqpWbpzlgQ8v_gcodKXm9m8o5IckeQ)
 
