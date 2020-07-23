@@ -105,7 +105,8 @@ An ivory white marble mausoleum which took around around 20 years to complete. [
 The Temple of Concord in the ancient city of Rome. [Link here.](https://artsandculture.google.com/streetview/temple-of-concordia/FQEHXZ1xkwspYA?hl=en&sv_lng=13.59232671223065&sv_lat=37.28955359894309&sv_h=316&sv_p=0&sv_pid=T_39gANTWf4AAAQvO6pp7g&sv_z=1)
 
 ## The Louvre - Paris, France
-It's closed from today (March 2020). But you can still have a peek. [Tour here.](https://www.louvre.fr/en/visites-en-ligne)
+Formerly a royal palace, the Louvre us world renowned and its collections feature works admired throughout the globe, including the Mona Lisa, the Winged Victory of Samothrace, and the Venus de Milo.
+ [Tour here.](https://www.louvre.fr/en/visites-en-ligne)
 
 ## The Minack Theatre - Cornwall, UK
 The Minack is a unique open air theatre perched on the cliffs overlooking the spectacular panorama of Porthcurno Bay. [Turn here.](https://www.minack.com/visit-us/360o-virtual-tour)
