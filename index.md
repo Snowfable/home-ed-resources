@@ -105,7 +105,7 @@ More drama resources to investigate. [Act here.](https://dramaresource.com/drama
 Online drawing lessons. [Draw here.](https://www.drawspace.com)
 
 ## Ducksters Education Site
-Fun educational website with easy to read, history, geography, biography and more. [Learn here.](https://www.ducksters.com)
+Fun educational website with easy to read history, geography, biography and more. [Learn here.](https://www.ducksters.com)
 
 ## Duolingo
 Learn languages for free. Web or app. [Link here](https://www.duolingo.com)
