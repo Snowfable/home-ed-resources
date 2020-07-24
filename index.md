@@ -63,7 +63,7 @@ Activities that cover the following chapters: periodic table, atomic energy, che
 Providing materials to support learning in maths from Primary through to A level. [Link here.](http://www.cimt.org.uk/projects/mep/index.htm?fbclid=IwAR0HtEFdc7s8ZkgZ2yKz2tJYTNPiZKErIUUTUph-e9VJ7I4DqM-bnsAE8bA)
 
 ## Code Camp
-Learn to code by completing coding challenges and building projects. You'll also earn verified certifications along the way. Free.[Code here.](https://www.freecodecamp.org/)
+Learn to code by completing coding challenges and building projects. You'll also earn verified certifications along the way. Free. [Code here.](https://www.freecodecamp.org/)
 
 ## Code Monster
 Code Monster teaches kids and adults a little about Javascript programming! It's easy to play. Follow the instructions and do what Code Monster says. If you get stuck, just skip to the next lesson. You can always come back to it later! [Code here.](http://www.crunchzilla.com/code-monster)
