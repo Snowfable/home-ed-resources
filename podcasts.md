@@ -10,6 +10,9 @@ Podcasts are a great way of accessing various topics. Many universities and othe
 ## Ask the Nincompoops
 If you want to know who invented cheese, why the grass is green, and whether this is the best podcast you'll ever hear (the answer to the last one is 'yes', you can have that for free), then it's time for you to....Ask The Nincompoops! [Listen here.](https://play.acast.com/s/nincompoops?fbclid=IwAR0tGPUVNbmAvcvr3k4Mz62pHBkh6DFvjV8SqgFU7lRV2rxGVGz3glc9I-I)
 
+## BBC Homeschool History
+Fun snippets on history complete with sound effects from Cleopatra and Roman Gladiators to China and the Space Race.[Listen here.](https://www.bbc.co.uk/programmes/m000hmmf/episodes/player?page=1)
+
 ## Birbeck, University of London Podcasts
 Subjecs on population, environment, gender and more. [Listen here.](http://www.bbk.ac.uk/bisr/podcasts/podcasts/)
 
