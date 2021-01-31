@@ -8,7 +8,7 @@ layout: default
 Here's some free or affordable ways that children can interact online.
 
 ## Discord
-A modern take on old chat channels. Servers are created for: gaming groups, language learning, worldwide art community, or just a handful of friends that want to spend time together. Servers can be public or private. Discord makes it easy to talk every day and hang out more often. Works with both PC and MACs, on an app or straight in a browser. There is even a downloadable mobile app. Age 13+.
+A modern take on old chat channels. Servers are created for: gaming groups, language learning, worldwide art community, or just a handful of friends that want to spend time together. Servers can be public or private. Discord makes it easy to talk every day and hang out more often. Works with both PC and Macs, on an app or straight in a browser. There is even a downloadable mobile app. Age 13+.
 <br>[Get Discord here.](https://discord.com)
 <br>[Discord Safety Information.](https://discord.com/safety)
 
